@@ -2030,3 +2030,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [15Apr2025 22:26:08.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> oe vrd como tomo agua sin cantinplora?
 [15Apr2025 22:26:17.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> aea
 [15Apr2025 22:26:35.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> nunca dije q era de dia
+[15Apr2025 22:26:54.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> necesito agua
+[15Apr2025 22:26:54.801] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[15Apr2025 22:26:55.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Meet the team]
+[15Apr2025 22:26:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Meet the Sniper]
+[15Apr2025 22:26:59.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> veo borroso
+[15Apr2025 22:27:13.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3812ms or 76 ticks behind
+[15Apr2025 22:28:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Tunnel Treasures]
+[15Apr2025 22:28:05.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Diamonds!]
+[15Apr2025 22:28:21.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Meet the team]
+[15Apr2025 22:28:21.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Addict]
+[15Apr2025 22:28:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was slain by Volatile
+[15Apr2025 22:28:22.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Your First Grave]
+[15Apr2025 22:28:22.850] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
+[15Apr2025 22:28:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> la bruja
+[15Apr2025 22:28:45.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement ['X' Marks the Spot]
+[15Apr2025 22:28:47.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Ice Bucket Challenge]
+[15Apr2025 22:29:15.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> tmr muchos infectadois
+[15Apr2025 22:29:17.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Atlantis must be real]
+[15Apr2025 22:29:19.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Not Today, Thank You]
+[15Apr2025 22:29:20.699] [pool-5-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=53, y=71, z=-229}
+[15Apr2025 22:29:23.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
+[15Apr2025 22:29:27.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Monster Hunter]
+[15Apr2025 22:29:40.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[15Apr2025 22:29:58.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
+[15Apr2025 22:30:46.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[15Apr2025 22:31:45.235] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['GreyRP87'/14342, l='ServerLevel[world]', x=83.68, y=63.00, z=43.88] died: GreyRP87 was slain by Enderman
+[15Apr2025 22:32:29.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> vuelvo
+[15Apr2025 22:32:31.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[15Apr2025 22:32:31.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[15Apr2025 22:33:28.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:35491] logged in with entity id 18307 at (226.18108303015322, 65.0, 74.72415372583414)
+[15Apr2025 22:33:28.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
+[15Apr2025 22:33:28.493] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
+[15Apr2025 22:33:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Addict]
+[15Apr2025 22:33:34.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was fungi-fied by Volatile
+[15Apr2025 22:33:34.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Your First Grave]
+[15Apr2025 22:33:34.053] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[15Apr2025 22:33:45.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> toma
+[15Apr2025 22:34:32.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Here They Come]
+[15Apr2025 22:36:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> ya?
+[15Apr2025 22:36:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> pa quitarlo
+[15Apr2025 22:36:41.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> oe ender con mochila
+[15Apr2025 22:37:02.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> oe ven
+[15Apr2025 22:37:19.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was slain by Enderman
+[15Apr2025 22:37:19.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Your First Grave]
+[15Apr2025 22:37:19.019] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
