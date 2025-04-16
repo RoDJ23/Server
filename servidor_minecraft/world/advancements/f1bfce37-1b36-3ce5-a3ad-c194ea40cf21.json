@@ -3292,6 +3292,12 @@
     },
     "done": true
   },
+  "spore:braiomil": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 17:44:47 +0000"
+    },
+    "done": true
+  },
   "spore:slasher": {
     "criteria": {
       "hurt_infected": "2025-04-16 17:32:50 +0000"
@@ -3307,6 +3313,12 @@
   "spore:spitter": {
     "criteria": {
       "hurt_by_infected": "2025-04-16 17:22:31 +0000"
+    },
+    "done": true
+  },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-16 17:40:14 +0000"
     },
     "done": true
   },

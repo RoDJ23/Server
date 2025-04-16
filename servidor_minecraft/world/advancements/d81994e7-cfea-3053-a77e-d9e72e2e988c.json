@@ -3221,6 +3221,12 @@
     },
     "done": true
   },
+  "spore:braiomil": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 17:44:43 +0000"
+    },
+    "done": true
+  },
   "spore:slasher": {
     "criteria": {
       "hurt_infected": "2025-04-16 17:00:39 +0000"
@@ -3236,6 +3242,12 @@
   "spore:inf_pillager": {
     "criteria": {
       "hurt_infected": "2025-04-16 16:54:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 17:37:10 +0000"
     },
     "done": true
   },
