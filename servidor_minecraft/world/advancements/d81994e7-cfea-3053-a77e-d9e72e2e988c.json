@@ -2385,6 +2385,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 16:34:46 +0000",
       "in_better_monster_room": "2025-04-15 23:04:49 +0000",
       "in_better_spider_dungeon": "2025-04-16 16:27:02 +0000"
     },
@@ -3200,9 +3201,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-04-16 16:45:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-04-16 16:45:19 +0000"
+    },
+    "done": true
+  },
   "spore:inf_player": {
     "criteria": {
       "hurt_infected": "2025-04-16 16:29:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 16:34:46 +0000"
     },
     "done": true
   },
@@ -3215,6 +3234,12 @@
   "spore:specter": {
     "criteria": {
       "hurt_infected": "2025-04-16 16:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-04-16 16:45:19 +0000"
     },
     "done": true
   },

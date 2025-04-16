@@ -2085,6 +2085,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 16:34:55 +0000",
       "in_better_monster_room": "2025-04-15 23:04:58 +0000",
       "in_better_spider_dungeon": "2025-04-16 16:26:57 +0000"
     },
@@ -3146,15 +3147,33 @@
     },
     "done": true
   },
+  "spore:inf_husk": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:41:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-16 16:14:06 +0000"
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-16 16:31:20 +0000"
+    },
+    "done": true
+  },
   "spore:inf_player": {
     "criteria": {
       "hurt_infected": "2025-04-16 16:27:38 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 16:34:55 +0000"
     },
     "done": true
   },
