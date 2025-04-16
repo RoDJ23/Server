@@ -3006,6 +3006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_the_recipe": "2025-04-16 00:16:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 00:16:49 +0000"
@@ -3054,12 +3060,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-16 00:20:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 00:16:49 +0000"
@@ -3072,12 +3072,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_the_recipe": "2025-04-16 00:16:48 +0000"
-    },
-    "done": true
-  },
   "toughasnails:recipes/tools/empty_gold_canteen": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 00:16:49 +0000"
@@ -3087,12 +3081,6 @@
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_ingot": "2025-04-16 00:16:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_grave_type": {
-    "criteria": {
-      "coded_trigger": "2025-04-16 00:19:42 +0000"
     },
     "done": true
   },
@@ -3126,15 +3114,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-16 00:16:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 00:19:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-16 00:20:12 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-04-16 00:24:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
-      "has_gold_ingot": "2025-04-16 00:16:49 +0000"
+      "coded_trigger": "2025-04-16 00:30:17 +0000"
     },
     "done": true
   },
