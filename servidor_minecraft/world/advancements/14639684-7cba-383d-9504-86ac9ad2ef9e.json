@@ -3175,5 +3175,17 @@
     },
     "done": true
   },
+  "spore:stalker": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-16 18:04:10 +0000"
+    },
+    "done": true
+  },
+  "spore:jagd": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-16 18:06:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
