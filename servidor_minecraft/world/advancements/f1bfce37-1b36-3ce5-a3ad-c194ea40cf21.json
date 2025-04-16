@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-04-15 22:20:45 +0000",
       "minecraft:beach": "2025-04-15 23:13:11 +0000",
+      "minecraft:dark_forest": "2025-04-16 17:12:09 +0000",
       "minecraft:river": "2025-04-15 22:28:13 +0000",
       "minecraft:forest": "2025-04-15 22:13:39 +0000",
       "minecraft:lush_caves": "2025-04-15 22:57:47 +0000",
@@ -3147,15 +3148,9 @@
     },
     "done": true
   },
-  "spore:inf_husk": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "hurt_infected": "2025-04-16 16:41:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-04-16 17:08:38 +0000"
+      "has_bow": "2025-04-16 16:07:38 +0000"
     },
     "done": true
   },
@@ -3165,9 +3160,63 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-16 16:26:57 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-16 16:31:20 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-16 16:34:55 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_husk": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:41:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-16 16:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-16 16:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-16 16:53:14 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:54:37 +0000"
     },
     "done": true
   },
@@ -3183,63 +3232,9 @@
     },
     "done": true
   },
-  "spore:inf_pillager": {
-    "criteria": {
-      "hurt_infected": "2025-04-16 16:54:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-04-16 16:53:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-04-16 16:55:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-04-16 17:08:38 +0000"
-    },
-    "done": true
-  },
-  "spore:inf_player": {
-    "criteria": {
-      "hurt_infected": "2025-04-16 16:27:38 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:zombie_dungeon": {
-    "criteria": {
-      "in_better_zombie_dungeon": "2025-04-16 16:34:55 +0000"
-    },
-    "done": true
-  },
-  "spore:busser": {
-    "criteria": {
-      "hurt_infected": "2025-04-16 17:09:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-04-16 16:07:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-04-16 16:53:14 +0000"
-    },
-    "done": true
-  },
-  "spore:specter": {
-    "criteria": {
-      "hurt_infected": "2025-04-16 16:27:25 +0000"
     },
     "done": true
   },
@@ -3249,15 +3244,45 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-16 16:26:57 +0000"
+      "has_raw_gold": "2025-04-16 17:08:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
-      "has_moss_block": "2025-04-16 16:53:14 +0000"
+      "has_raw_gold": "2025-04-16 17:08:38 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 17:09:43 +0000"
+    },
+    "done": true
+  },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 17:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-16 17:16:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-16 17:16:52 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-16 17:16:52 +0000"
     },
     "done": true
   },

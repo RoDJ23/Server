@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:birch_forest": "2025-04-15 22:15:44 +0000",
       "minecraft:beach": "2025-04-15 23:13:11 +0000",
+      "minecraft:dark_forest": "2025-04-16 17:12:52 +0000",
       "minecraft:river": "2025-04-15 22:17:11 +0000",
       "minecraft:forest": "2025-04-15 22:15:15 +0000",
       "minecraft:lush_caves": "2025-04-15 22:50:01 +0000",
@@ -3199,6 +3200,18 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-04-16 00:30:34 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/glow_berry_juice": {
+    "criteria": {
+      "has_glow_berries": "2025-04-16 17:18:31 +0000"
+    },
+    "done": true
+  },
+  "spore:mound": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 17:13:53 +0000"
     },
     "done": true
   },

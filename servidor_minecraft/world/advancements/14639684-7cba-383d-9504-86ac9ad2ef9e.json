@@ -3138,6 +3138,18 @@
     },
     "done": true
   },
+  "spore:thorn": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-16 17:12:12 +0000"
+    },
+    "done": true
+  },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 17:13:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-04-16 17:07:30 +0000"
