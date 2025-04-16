@@ -2385,7 +2385,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-04-15 23:04:49 +0000"
+      "in_better_monster_room": "2025-04-15 23:04:49 +0000",
+      "in_better_spider_dungeon": "2025-04-16 16:27:02 +0000"
     },
     "done": false
   },
@@ -3199,9 +3200,27 @@
     },
     "done": true
   },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:29:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-04-16 16:12:55 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:27:12 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-16 16:27:02 +0000"
     },
     "done": true
   },

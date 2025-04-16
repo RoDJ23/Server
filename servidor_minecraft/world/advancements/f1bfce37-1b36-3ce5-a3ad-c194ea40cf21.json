@@ -571,6 +571,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-16 16:21:31 +0000",
       "cooked_beef": "2025-04-16 00:10:57 +0000",
       "bread": "2025-04-15 22:19:09 +0000"
     },
@@ -2084,7 +2085,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-04-15 23:04:58 +0000"
+      "in_better_monster_room": "2025-04-15 23:04:58 +0000",
+      "in_better_spider_dungeon": "2025-04-16 16:26:57 +0000"
     },
     "done": false
   },
@@ -3150,9 +3152,27 @@
     },
     "done": true
   },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-04-16 16:07:38 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:27:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-16 16:26:57 +0000"
     },
     "done": true
   },

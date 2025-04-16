@@ -7124,3 +7124,143 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [16Apr2025 16:23:39.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [16Apr2025 16:23:39.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> zzzzzzzzzzzzz
 [16Apr2025 16:23:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ZZZZZZZZZZZZZZZZZZZZZZZ
+[16Apr2025 16:23:59.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5052ms or 101 ticks behind
+[16Apr2025 16:24:52.192] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Seta33'/6652, l='ServerLevel[world]', x=486.00, y=68.00, z=-47.05], dimensionLocationPath overworld
+[16Apr2025 16:24:52.192] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Seta33'/6652, l='ServerLevel[world]', x=486.00, y=68.00, z=-47.05] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@40e0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@411b, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@41a0, atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4226]
+[16Apr2025 16:24:52.247] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Seta33'/6652, l='ServerLevel[world]', x=485.79, y=68.00, z=-47.00]
+[16Apr2025 16:24:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> aea
+[16Apr2025 16:25:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> yo lo tiro
+[16Apr2025 16:25:59.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 16:25:59.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 16:26:26.531] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/16608, l='ServerLevel[world]', x=124.43, y=22.00, z=29.52, removed=DISCARDED]
+[16Apr2025 16:26:35.279] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/16667, l='ServerLevel[world]', x=107.60, y=22.00, z=29.45, removed=DISCARDED]
+[16Apr2025 16:26:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Cobweb Entanglement]
+[16Apr2025 16:26:57.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/16800, l='ServerLevel[world]', x=133.76, y=22.00, z=29.13, removed=DISCARDED]
+[16Apr2025 16:27:01.937] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/16934, l='ServerLevel[world]', x=112.82, y=22.00, z=30.07, removed=DISCARDED]
+[16Apr2025 16:27:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Cobweb Entanglement]
+[16Apr2025 16:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Meet the Spy]
+[16Apr2025 16:27:25.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was slain by Specter
+[16Apr2025 16:27:25.425] [Server thread/DEBUG] [tombstone/]: A new grave of the player RoDJ23 was created at position [x:242, y:63, z:259, dim:minecraft:overworld]
+[16Apr2025 16:27:25.441] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
+[16Apr2025 16:27:25.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Meet the Spy]
+[16Apr2025 16:27:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [A broken reflection]
+[16Apr2025 16:27:42.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['RoDJ23'/20829, l='ServerLevel[world]', x=244.73, y=63.19, z=264.21] died: RoDJ23 was slain by GreyRP87
+[16Apr2025 16:27:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Specter
+[16Apr2025 16:27:49.378] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:243, y:63, z:266, dim:minecraft:overworld]
+[16Apr2025 16:27:49.388] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Apr2025 16:27:49.388] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[16Apr2025 16:27:49.389] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Apr2025 16:27:49.389] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Apr2025 16:27:49.390] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[16Apr2025 16:27:49.400] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[16Apr2025 16:27:56.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was fungi-fied by Seta33
+[16Apr2025 16:27:56.423] [Server thread/DEBUG] [tombstone/]: A new grave of the player GreyRP87 was created at position [x:239, y:63, z:266, dim:minecraft:overworld]
+[16Apr2025 16:27:56.442] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
+[16Apr2025 16:28:02.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[16Apr2025 16:28:20.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[16Apr2025 16:28:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> al grande si
+[16Apr2025 16:29:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [A broken reflection]
+[16Apr2025 16:29:10.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was eaten alive by Seta33
+[16Apr2025 16:29:10.079] [Server thread/DEBUG] [tombstone/]: A new grave of the player RoDJ23 was created at position [x:236, y:63, z:262, dim:minecraft:overworld]
+[16Apr2025 16:29:10.096] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
+[16Apr2025 16:29:16.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Spore]
+[16Apr2025 16:29:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Discreet Search]
+[16Apr2025 16:29:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was eaten alive by Seta33
+[16Apr2025 16:29:29.229] [Server thread/DEBUG] [tombstone/]: A new grave of the player GreyRP87 was created at position [x:239, y:63, z:273, dim:minecraft:overworld]
+[16Apr2025 16:29:29.256] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
+[16Apr2025 16:29:39.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/26080, l='ServerLevel[world]', x=492.43, y=-13.56, z=2.74], dimensionLocationPath overworld
+[16Apr2025 16:29:39.252] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/26080, l='ServerLevel[world]', x=492.43, y=-13.56, z=2.74] in list []
+[16Apr2025 16:29:56.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Apr2025 16:30:31.589] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/26080, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:31.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/27383, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92], dimensionLocationPath overworld
+[16Apr2025 16:30:31.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/27383, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92] in list []
+[16Apr2025 16:30:31.751] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27383, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:31.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/27402, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92], dimensionLocationPath overworld
+[16Apr2025 16:30:31.788] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/27402, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92] in list []
+[16Apr2025 16:30:31.888] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27402, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:31.937] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/27421, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92], dimensionLocationPath overworld
+[16Apr2025 16:30:31.938] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/27421, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92] in list []
+[16Apr2025 16:30:32.039] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27421, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:32.087] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/27440, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92], dimensionLocationPath overworld
+[16Apr2025 16:30:32.087] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/27440, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92] in list []
+[16Apr2025 16:30:32.190] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27440, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:32.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/27459, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92], dimensionLocationPath overworld
+[16Apr2025 16:30:32.238] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/27459, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92] in list []
+[16Apr2025 16:30:32.338] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27459, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:32.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/27478, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92], dimensionLocationPath overworld
+[16Apr2025 16:30:32.390] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/27478, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92] in list []
+[16Apr2025 16:30:32.490] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27478, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:32.539] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/27497, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92], dimensionLocationPath overworld
+[16Apr2025 16:30:32.539] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/27497, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92] in list []
+[16Apr2025 16:30:32.672] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/27497, l='ServerLevel[world]', x=492.79, y=-14.00, z=1.92, removed=UNLOADED_TO_CHUNK]
+[16Apr2025 16:30:49.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=246.91, y=63.00, z=274.68], dimensionLocationPath overworld
+[16Apr2025 16:30:49.337] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=246.91, y=63.00, z=274.68] in list []
+[16Apr2025 16:30:49.731] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=249.31, y=63.00, z=273.93]
+[16Apr2025 16:31:05.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Apr2025 16:31:05.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Apr2025 16:31:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was eaten alive by GreyRP87
+[16Apr2025 16:31:12.578] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:249, y:63, z:254, dim:minecraft:overworld]
+[16Apr2025 16:31:12.596] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[16Apr2025 16:31:20.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Take Aim]
+[16Apr2025 16:31:28.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> pasen flechas
+[16Apr2025 16:31:48.288] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=250.74, y=71.00, z=248.41], dimensionLocationPath overworld
+[16Apr2025 16:31:48.288] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=250.74, y=71.00, z=248.41] in list []
+[16Apr2025 16:31:48.342] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=250.74, y=71.00, z=248.41]
+[16Apr2025 16:31:55.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Seta33'/27882, l='ServerLevel[world]', x=264.30, y=67.00, z=234.69] died: Seta33 was slain by RoDJ23
+[16Apr2025 16:32:14.184] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=264.44, y=71.00, z=234.54], dimensionLocationPath overworld
+[16Apr2025 16:32:14.184] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=264.44, y=71.00, z=234.54] in list []
+[16Apr2025 16:32:14.734] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=264.44, y=71.00, z=234.54]
+[16Apr2025 16:32:18.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Seta33'/21539, l='ServerLevel[world]', x=257.33, y=64.00, z=234.85] died: Seta33 hit the ground too hard
+[16Apr2025 16:32:27.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['GreyRP87'/25144, l='ServerLevel[world]', x=265.92, y=68.00, z=235.00] died: GreyRP87 was slain by RoDJ23
+[16Apr2025 16:33:02.482] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=260.38, y=66.00, z=235.13], dimensionLocationPath overworld
+[16Apr2025 16:33:02.482] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=260.38, y=66.00, z=235.13] in list []
+[16Apr2025 16:33:02.782] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=259.10, y=65.54, z=234.30]
+[16Apr2025 16:33:06.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Seta33'/6652, l='ServerLevel[world]', x=234.41, y=63.00, z=258.34], dimensionLocationPath overworld
+[16Apr2025 16:33:06.284] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Seta33'/6652, l='ServerLevel[world]', x=234.41, y=63.00, z=258.34] in list []
+[16Apr2025 16:33:07.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/30055, l='ServerLevel[world]', x=238.12, y=63.57, z=262.39], dimensionLocationPath overworld
+[16Apr2025 16:33:07.081] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/30055, l='ServerLevel[world]', x=238.12, y=63.57, z=262.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@19fc]
+[16Apr2025 16:33:07.515] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/30055, l='ServerLevel[world]', x=237.46, y=63.33, z=262.60, removed=DISCARDED]
+[16Apr2025 16:33:07.581] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Seta33'/6652, l='ServerLevel[world]', x=237.05, y=63.00, z=262.02]
+[16Apr2025 16:33:11.430] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=241.17, y=63.00, z=256.57], dimensionLocationPath overworld
+[16Apr2025 16:33:11.431] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=241.17, y=63.00, z=256.57] in list []
+[16Apr2025 16:33:11.480] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=241.17, y=63.00, z=256.57]
+[16Apr2025 16:33:13.331] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/30087, l='ServerLevel[world]', x=265.31, y=35.57, z=234.55], dimensionLocationPath overworld
+[16Apr2025 16:33:13.331] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/30087, l='ServerLevel[world]', x=265.31, y=35.57, z=234.55] in list []
+[16Apr2025 16:33:13.763] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Torch'/30087, l='ServerLevel[world]', x=264.91, y=35.37, z=235.04]
+[16Apr2025 16:33:14.478] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/30087, l='ServerLevel[world]', x=265.83, y=35.00, z=237.29], dimensionLocationPath overworld
+[16Apr2025 16:33:14.479] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/30087, l='ServerLevel[world]', x=265.83, y=35.00, z=237.29] in list []
+[16Apr2025 16:33:16.666] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 28 messages to dispatch.
+[16Apr2025 16:33:16.687] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[16Apr2025 16:33:16.732] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[16Apr2025 16:33:16.782] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[16Apr2025 16:33:16.835] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[16Apr2025 16:33:16.883] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[16Apr2025 16:33:16.931] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[16Apr2025 16:33:16.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[16Apr2025 16:33:17.034] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[16Apr2025 16:33:17.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[16Apr2025 16:33:17.133] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[16Apr2025 16:33:17.184] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[16Apr2025 16:33:17.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[16Apr2025 16:33:17.282] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[16Apr2025 16:33:17.333] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[16Apr2025 16:33:17.382] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 14
+[16Apr2025 16:33:17.431] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 15
+[16Apr2025 16:33:17.483] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 16
+[16Apr2025 16:33:17.533] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry tombstone:perks' to 'fml:handshake' sequence 17
+[16Apr2025 16:33:17.582] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 18
+[16Apr2025 16:33:17.634] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 19
+[16Apr2025 16:33:17.683] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 20
+[16Apr2025 16:33:17.733] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 21
+[16Apr2025 16:33:17.783] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 22
+[16Apr2025 16:33:17.832] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 23
+[16Apr2025 16:33:17.886] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config tombstone-server.toml' to 'fml:handshake' sequence 24
+[16Apr2025 16:33:17.933] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 25
+[16Apr2025 16:33:17.984] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 26
+[16Apr2025 16:33:18.033] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 27
+[16Apr2025 16:33:25.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> aca ya enpezo
+[16Apr2025 16:33:29.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> m
+[16Apr2025 16:33:34.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=232.70, y=58.00, z=256.30], dimensionLocationPath overworld
+[16Apr2025 16:33:34.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=232.70, y=58.00, z=256.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7587]
+[16Apr2025 16:33:34.781] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/4598, l='ServerLevel[world]', x=232.70, y=58.00, z=256.30]
+[16Apr2025 16:33:46.690] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ffbb85[id=<null>,name=Luticlla,properties={},legacy=false] (/127.104.199.195:40801) lost connection: Timed out

@@ -295,3 +295,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [16Apr2025 16:23:39.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [16Apr2025 16:23:39.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> zzzzzzzzzzzzz
 [16Apr2025 16:23:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> ZZZZZZZZZZZZZZZZZZZZZZZ
+[16Apr2025 16:23:59.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5052ms or 101 ticks behind
+[16Apr2025 16:24:57.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> aea
+[16Apr2025 16:25:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> yo lo tiro
+[16Apr2025 16:26:57.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Cobweb Entanglement]
+[16Apr2025 16:27:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Cobweb Entanglement]
+[16Apr2025 16:27:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Meet the Spy]
+[16Apr2025 16:27:25.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was slain by Specter
+[16Apr2025 16:27:25.441] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
+[16Apr2025 16:27:25.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Meet the Spy]
+[16Apr2025 16:27:38.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [A broken reflection]
+[16Apr2025 16:27:42.042] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['RoDJ23'/20829, l='ServerLevel[world]', x=244.73, y=63.19, z=264.21] died: RoDJ23 was slain by GreyRP87
+[16Apr2025 16:27:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Specter
+[16Apr2025 16:27:49.388] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16Apr2025 16:27:49.388] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[16Apr2025 16:27:49.389] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[16Apr2025 16:27:49.389] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[16Apr2025 16:27:49.390] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[16Apr2025 16:27:49.400] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[16Apr2025 16:27:56.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was fungi-fied by Seta33
+[16Apr2025 16:27:56.442] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
+[16Apr2025 16:28:02.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[16Apr2025 16:28:20.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2289ms or 45 ticks behind
+[16Apr2025 16:28:25.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> al grande si
+[16Apr2025 16:29:04.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [A broken reflection]
+[16Apr2025 16:29:10.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was eaten alive by Seta33
+[16Apr2025 16:29:10.096] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
+[16Apr2025 16:29:16.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Spore]
+[16Apr2025 16:29:19.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Discreet Search]
+[16Apr2025 16:29:29.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was eaten alive by Seta33
+[16Apr2025 16:29:29.256] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
+[16Apr2025 16:29:56.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16Apr2025 16:31:12.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was eaten alive by GreyRP87
+[16Apr2025 16:31:12.596] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[16Apr2025 16:31:20.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Take Aim]
+[16Apr2025 16:31:28.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> pasen flechas
+[16Apr2025 16:31:55.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Seta33'/27882, l='ServerLevel[world]', x=264.30, y=67.00, z=234.69] died: Seta33 was slain by RoDJ23
+[16Apr2025 16:32:18.172] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Seta33'/21539, l='ServerLevel[world]', x=257.33, y=64.00, z=234.85] died: Seta33 hit the ground too hard
+[16Apr2025 16:32:27.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['GreyRP87'/25144, l='ServerLevel[world]', x=265.92, y=68.00, z=235.00] died: GreyRP87 was slain by RoDJ23
+[16Apr2025 16:33:25.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> aca ya enpezo
+[16Apr2025 16:33:29.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> m
+[16Apr2025 16:33:46.690] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ffbb85[id=<null>,name=Luticlla,properties={},legacy=false] (/127.104.199.195:40801) lost connection: Timed out
