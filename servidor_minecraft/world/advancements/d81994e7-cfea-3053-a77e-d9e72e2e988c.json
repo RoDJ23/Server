@@ -1983,6 +1983,7 @@
       "cooked_mutton": "2025-04-15 22:32:57 +0000",
       "cooked_beef": "2025-04-15 22:36:16 +0000",
       "bread": "2025-04-16 00:04:00 +0000",
+      "rotten_flesh": "2025-04-16 17:10:17 +0000",
       "cooked_chicken": "2025-04-16 00:22:21 +0000"
     },
     "done": false
@@ -3201,9 +3202,27 @@
     },
     "done": true
   },
+  "spore:slasher": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 17:00:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-16 16:45:19 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_pillager": {
+    "criteria": {
+      "hurt_infected": "2025-04-16 16:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-16 16:54:41 +0000"
     },
     "done": true
   },
@@ -3225,9 +3244,21 @@
     },
     "done": true
   },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-16 17:09:50 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-04-16 16:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-04-16 16:54:41 +0000"
     },
     "done": true
   },
@@ -3246,6 +3277,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-04-16 16:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-04-16 16:54:41 +0000"
     },
     "done": true
   },
