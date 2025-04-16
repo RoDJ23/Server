@@ -32,6 +32,8 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-15 22:16:35 +0000",
+      "minecraft:beach": "2025-04-16 00:08:19 +0000",
+      "minecraft:dark_forest": "2025-04-16 00:07:20 +0000",
       "minecraft:river": "2025-04-15 22:17:53 +0000",
       "minecraft:forest": "2025-04-15 22:13:26 +0000",
       "minecraft:lush_caves": "2025-04-15 22:52:54 +0000",
@@ -1944,7 +1946,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-04-15 22:37:12 +0000",
-      "bread": "2025-04-15 22:41:07 +0000"
+      "bread": "2025-04-15 22:41:07 +0000",
+      "glow_berries": "2025-04-16 00:00:37 +0000"
     },
     "done": false
   },
@@ -2981,6 +2984,36 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-15 23:52:25 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_villager": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-15 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_human": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-15 23:54:50 +0000"
+    },
+    "done": true
+  },
+  "spore:inf_player": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-15 23:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-04-15 23:58:13 +0000"
+    },
+    "done": true
+  },
+  "spore:specter": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-16 00:03:46 +0000"
     },
     "done": true
   },
