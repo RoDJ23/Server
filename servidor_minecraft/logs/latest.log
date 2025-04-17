@@ -292,3 +292,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [17Apr2025 15:40:12.935] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Seta33'/22624, l='ServerLevel[world]', x=1409.77, y=64.00, z=-18.51] died: Seta33 was slain by Seta33
 [17Apr2025 15:40:15.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Seta33'/22622, l='ServerLevel[world]', x=1410.25, y=64.65, z=-18.70] died: Seta33 was slain by Seta33
 [17Apr2025 15:40:30.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [And the winner of the Darwin awards is ?]
+[17Apr2025 15:44:45.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[17Apr2025 15:47:04.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was eaten alive by Phayres
+[17Apr2025 15:47:04.374] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
+[17Apr2025 15:47:10.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38cd3842[id=<null>,name=Luticlla,properties={},legacy=false] (/127.31.162.140:33277) lost connection: Disconnected
+[17Apr2025 15:47:15.615] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.31.162.140:46331] logged in with entity id 26344 at (-255.10937445779464, 94.0, 680.4408967470185)
+[17Apr2025 15:47:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[17Apr2025 15:47:15.669] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[17Apr2025 15:47:56.294] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['RoDJ23'/26190, l='ServerLevel[world]', x=1123.63, y=62.44, z=100.37] died: RoDJ23 was slain by RoDJ23
+[17Apr2025 15:49:35.693] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/27432, l='ServerLevel[world]', x=-296.17, y=67.00, z=815.66] died: Joker_de_Coeur was slain by Zombie
+[17Apr2025 15:52:47.181] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Apr2025 15:52:47.184] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[17Apr2025 15:52:47.185] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[17Apr2025 15:52:47.187] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 52 torch
+[17Apr2025 15:52:47.189] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[17Apr2025 15:52:53.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was slain by Enderman
+[17Apr2025 15:52:53.535] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
