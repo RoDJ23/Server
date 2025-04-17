@@ -564,3 +564,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [17Apr2025 06:31:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [When the Stew is Sus]
 [17Apr2025 06:32:25.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
 [17Apr2025 06:32:37.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> sube
+[17Apr2025 06:32:47.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[17Apr2025 06:32:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [Take Aim]
+[17Apr2025 06:32:56.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [Peter the horse is here]
+[17Apr2025 06:33:06.082] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['Luticlla'/89018, l='ServerLevel[world]', x=172.92, y=73.00, z=513.86] died: Luticlla was shot by Luticlla
+[17Apr2025 06:33:07.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> nomires atras
+[17Apr2025 06:33:09.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6403ms or 128 ticks behind
+[17Apr2025 06:33:10.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [And the winner of the Darwin awards is ?]
+[17Apr2025 06:33:11.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Scamper['RoDJ23'/94113, l='ServerLevel[world]', x=168.51, y=73.75, z=512.86] died: RoDJ23 was shot by Luticlla
+[17Apr2025 06:33:22.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['RoDJ23'/92435, l='ServerLevel[world]', x=167.52, y=74.00, z=511.72] died: RoDJ23 was shot by Luticlla
+[17Apr2025 06:33:26.536] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[17Apr2025 06:33:40.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Nuclealave['RoDJ23'/92285, l='ServerLevel[world]', x=174.92, y=73.00, z=516.11] died: RoDJ23 was shot by Luticlla
+[17Apr2025 06:34:30.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> x2
+[17Apr2025 06:34:41.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> va evitar el gas
+[17Apr2025 06:34:55.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [WHERE'S THE 'redacted' SOIL?!]
+[17Apr2025 06:37:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> aca
+[17Apr2025 06:37:19.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was slain by Infected Husk
+[17Apr2025 06:37:19.512] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 06:37:19.689] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Apr2025 06:37:19.690] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[17Apr2025 06:37:19.690] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[17Apr2025 06:37:19.691] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Apr2025 06:37:19.691] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[17Apr2025 06:37:41.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> coordenadas
+[17Apr2025 06:38:09.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [Best Friends Forever]
+[17Apr2025 06:39:11.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> no veo al seta
+[17Apr2025 06:39:55.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> z _?
+[17Apr2025 06:40:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> lo veo
+[17Apr2025 06:41:35.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> haz la casa aerea ps
+[17Apr2025 06:41:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> tengo 2 tp
+[17Apr2025 06:43:01.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> xuxa puedo hacer la wba pa las armaduras del spore
