@@ -1953,6 +1953,7 @@
       "spider_eye": "2025-04-16 17:53:14 +0000",
       "mutton": "2025-04-17 06:06:21 +0000",
       "bread": "2025-04-15 22:41:07 +0000",
+      "golden_apple": "2025-04-17 07:12:29 +0000",
       "suspicious_stew": "2025-04-17 06:31:58 +0000",
       "glow_berries": "2025-04-16 00:00:37 +0000",
       "cooked_chicken": "2025-04-17 06:38:15 +0000"
@@ -3625,9 +3626,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-04-17 07:10:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-17 07:10:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-17 06:31:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackboard": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-17 07:10:38 +0000"
     },
     "done": true
   },
@@ -3658,6 +3677,18 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-04-17 06:46:21 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/item_shelf": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-17 07:10:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "minecraft:wooden_slabs": "2025-04-17 07:10:38 +0000"
     },
     "done": true
   },
