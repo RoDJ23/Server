@@ -32,6 +32,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-04-15 22:16:35 +0000",
+      "minecraft:windswept_hills": "2025-04-17 22:27:44 +0000",
       "minecraft:beach": "2025-04-16 00:08:19 +0000",
       "minecraft:dark_forest": "2025-04-16 00:07:20 +0000",
       "minecraft:river": "2025-04-15 22:17:53 +0000",
@@ -4287,6 +4288,72 @@
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-04-17 18:09:50 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-17 22:25:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:31:30 +0000"
     },
     "done": true
   },

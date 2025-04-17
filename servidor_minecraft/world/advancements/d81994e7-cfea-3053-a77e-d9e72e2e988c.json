@@ -4023,9 +4023,9 @@
     },
     "done": true
   },
-  "spore:howler": {
+  "tombstone:adventure/ambush": {
     "criteria": {
-      "hurt_infected": "2025-04-17 22:13:10 +0000"
+      "coded_trigger": "2025-04-17 22:08:37 +0000"
     },
     "done": true
   },
@@ -4035,15 +4035,33 @@
     },
     "done": true
   },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 22:13:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-04-17 22:18:27 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ambush": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "coded_trigger": "2025-04-17 22:08:37 +0000"
+      "has_raw_copper": "2025-04-17 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 22:21:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-17 22:21:30 +0000"
     },
     "done": true
   },
