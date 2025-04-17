@@ -6810,3 +6810,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [17Apr2025 15:53:44.293] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Luticlla'/26344, l='ServerLevel[world]', x=-280.01, y=62.31, z=864.53]
 [17Apr2025 15:53:51.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Luticlla'/26344, l='ServerLevel[world]', x=-298.04, y=62.69, z=886.93], dimensionLocationPath overworld
 [17Apr2025 15:53:51.730] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Luticlla'/26344, l='ServerLevel[world]', x=-298.04, y=62.69, z=886.93] in list []
+[17Apr2025 15:55:06.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17Apr2025 15:55:23.693] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/30963, l='ServerLevel[world]', x=1096.35, y=67.37, z=84.67], dimensionLocationPath overworld
+[17Apr2025 15:55:23.693] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/30963, l='ServerLevel[world]', x=1096.35, y=67.37, z=84.67] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@66e8]
+[17Apr2025 15:55:24.206] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/30963, l='ServerLevel[world]', x=1095.50, y=67.12, z=84.04, removed=DISCARDED]
+[17Apr2025 15:55:25.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla moved too quickly! -5.927754377308531,1.6668000063657757,-8.723794153555218
+[17Apr2025 15:55:28.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7020ms or 140 ticks behind
+[17Apr2025 15:56:07.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was slain by Enderman
+[17Apr2025 15:56:07.850] [Server thread/DEBUG] [tombstone/]: A new grave of the player Luticlla was created at position [x:-398, y:66, z:966, dim:minecraft:overworld]
+[17Apr2025 15:56:07.859] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['Luticlla'/26344, l='ServerLevel[world]', x=-397.70, y=66.42, z=966.70]
+[17Apr2025 15:56:07.863] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 15:56:33.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['RoDJ23'/1015, l='ServerLevel[world]', x=1088.42, y=64.00, z=90.78], dimensionLocationPath overworld
+[17Apr2025 15:56:33.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['RoDJ23'/1015, l='ServerLevel[world]', x=1088.42, y=64.00, z=90.78] in list []
+[17Apr2025 15:56:33.077] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['RoDJ23'/1015, l='ServerLevel[world]', x=1088.42, y=64.00, z=90.78]
+[17Apr2025 15:56:33.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 fell from a high place
+[17Apr2025 15:56:33.181] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:1098, y:63, z:89, dim:minecraft:overworld]
+[17Apr2025 15:56:33.186] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[17Apr2025 15:56:36.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 15:56:36.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 15:56:52.955] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1084.79, y=64.00, z=92.19], dimensionLocationPath overworld
+[17Apr2025 15:56:52.956] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1084.79, y=64.00, z=92.19] in list []
+[17Apr2025 15:56:53.003] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1084.79, y=64.00, z=92.19]
+[17Apr2025 15:58:16.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla moved too quickly! -6.8700613798502985,1.252203340253729,7.352263752913359
+[17Apr2025 15:59:02.323] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1074.96, y=63.75, z=97.82], dimensionLocationPath overworld
+[17Apr2025 15:59:02.323] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1074.96, y=63.75, z=97.82] in list []
+[17Apr2025 15:59:02.609] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1076.17, y=64.25, z=97.88]
+[17Apr2025 15:59:07.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla drowned
+[17Apr2025 15:59:07.433] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 15:59:11.592] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['RoDJ23'/1015, l='ServerLevel[world]', x=1100.60, y=65.25, z=97.91], dimensionLocationPath overworld
+[17Apr2025 15:59:11.594] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['RoDJ23'/1015, l='ServerLevel[world]', x=1100.60, y=65.25, z=97.91] in list []
+[17Apr2025 15:59:11.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1096.75, y=63.00, z=104.88], dimensionLocationPath overworld
+[17Apr2025 15:59:11.673] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1096.75, y=63.00, z=104.88] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3f7]
+[17Apr2025 15:59:11.719] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Seta33'/738, l='ServerLevel[world]', x=1097.30, y=63.00, z=105.22]
+[17Apr2025 15:59:11.889] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['RoDJ23'/1015, l='ServerLevel[world]', x=1102.01, y=64.12, z=96.86]
+[17Apr2025 15:59:15.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17Apr2025 15:59:20.078] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[17Apr2025 15:59:20.078] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[17Apr2025 15:59:20.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2025 15:59:20.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2025 15:59:20.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoDJ23 lost connection: Server closed
+[17Apr2025 15:59:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 left the game
+[17Apr2025 15:59:20.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Server closed
+[17Apr2025 15:59:20.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[17Apr2025 15:59:20.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2025 15:59:20.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Apr2025 15:59:21.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Apr2025 15:59:21.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Apr2025 15:59:21.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Apr2025 15:59:21.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Apr2025 15:59:21.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2025 15:59:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2025 15:59:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2025 15:59:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Apr2025 15:59:21.932] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[17Apr2025 15:59:21.932] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[17Apr2025 15:59:22.091] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[17Apr2025 15:59:22.091] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[17Apr2025 15:59:22.093] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[17Apr2025 15:59:22.093] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[17Apr2025 15:59:22.102] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
