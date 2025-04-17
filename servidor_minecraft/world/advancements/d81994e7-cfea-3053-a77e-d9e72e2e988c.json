@@ -35,6 +35,7 @@
       "minecraft:beach": "2025-04-15 23:13:11 +0000",
       "minecraft:dark_forest": "2025-04-16 17:12:52 +0000",
       "minecraft:river": "2025-04-15 22:17:11 +0000",
+      "minecraft:dripstone_caves": "2025-04-17 05:35:42 +0000",
       "minecraft:forest": "2025-04-15 22:15:15 +0000",
       "minecraft:lush_caves": "2025-04-15 22:50:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 22:29:44 +0000",
@@ -3371,6 +3372,12 @@
     },
     "done": true
   },
+  "spore:scavenger": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 05:29:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-17 05:21:31 +0000"
@@ -3398,6 +3405,12 @@
   "supplementaries:recipes/fodder": {
     "criteria": {
       "has_hay_block": "2025-04-17 05:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-17 05:35:47 +0000"
     },
     "done": true
   },
