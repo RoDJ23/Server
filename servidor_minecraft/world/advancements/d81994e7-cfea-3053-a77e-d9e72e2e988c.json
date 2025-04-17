@@ -1339,6 +1339,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-17 22:11:56 +0000",
       "minecraft:skeleton": "2025-04-15 22:29:27 +0000",
       "minecraft:spider": "2025-04-15 22:43:16 +0000",
       "minecraft:creeper": "2025-04-15 22:49:42 +0000",
@@ -4019,6 +4020,24 @@
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-04-17 18:06:57 +0000"
+    },
+    "done": true
+  },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 22:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-17 22:11:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:18:27 +0000"
     },
     "done": true
   },
