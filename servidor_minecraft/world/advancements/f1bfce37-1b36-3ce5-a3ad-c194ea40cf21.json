@@ -3581,6 +3581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-17 05:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-17 05:36:37 +0000"
@@ -3596,6 +3602,12 @@
   "toughasnails:recipes/food/apple_juice": {
     "criteria": {
       "has_apple": "2025-04-17 05:41:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "forge:eggs": "2025-04-17 05:56:35 +0000"
     },
     "done": true
   },
