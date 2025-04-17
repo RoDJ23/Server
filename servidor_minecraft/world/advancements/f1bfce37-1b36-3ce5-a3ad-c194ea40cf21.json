@@ -3600,6 +3600,12 @@
     },
     "done": true
   },
+  "spore:twisted_creation": {
+    "criteria": {
+      "pick_up_surgery": "2025-04-17 06:49:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-04-17 05:36:37 +0000"
