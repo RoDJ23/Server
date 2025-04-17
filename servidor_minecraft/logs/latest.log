@@ -224,3 +224,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [17Apr2025 05:10:28.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
 [17Apr2025 05:10:28.106] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
 [17Apr2025 05:10:35.903] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8001ms or 160 ticks behind
+[17Apr2025 05:10:55.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4649ms or 92 ticks behind
+[17Apr2025 05:11:25.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla burned to death
+[17Apr2025 05:11:25.445] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 05:14:09.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[17Apr2025 05:14:36.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[17Apr2025 05:14:40.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RoDJ23[/127.181.118.198:56377] logged in with entity id 2462 at (-1.1095512391595612, 67.0, 31.13471144323186)
+[17Apr2025 05:14:40.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 joined the game
+[17Apr2025 05:14:40.153] [Server thread/INFO] [Jade/]: Syncing config to RoDJ23 (d81994e7-cfea-3053-a77e-d9e72e2e988c)
+[17Apr2025 05:14:46.898] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:40213] logged in with entity id 2632 at (53.29067015249932, 69.0, 68.50089943208582)
+[17Apr2025 05:14:46.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
+[17Apr2025 05:14:47.012] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
+[17Apr2025 05:14:59.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7694ms or 153 ticks behind
+[17Apr2025 05:15:18.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4146ms or 82 ticks behind
+[17Apr2025 05:15:42.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8506ms or 170 ticks behind
+[17Apr2025 05:16:04.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7663ms or 153 ticks behind
+[17Apr2025 05:16:26.913] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7211ms or 144 ticks behind
+[17Apr2025 05:16:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> tengo mis cosas mrd
+[17Apr2025 05:16:44.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> coordenadas
+[17Apr2025 05:16:45.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3509ms or 70 ticks behind
+[17Apr2025 05:17:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> en el spawn vi wbdas
+[17Apr2025 05:17:06.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5795ms or 115 ticks behind
+[17Apr2025 05:18:45.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> rodrigo ayudaaaaaaaaaa
+[17Apr2025 05:18:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was slain by Zombie
+[17Apr2025 05:18:49.450] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 05:18:52.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> haz un puente
+[17Apr2025 05:18:59.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[17Apr2025 05:19:15.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla tried to swim in lava
+[17Apr2025 05:19:15.140] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 05:19:43.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla tried to swim in lava
+[17Apr2025 05:19:43.538] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 05:19:53.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
+[17Apr2025 05:20:03.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla tried to swim in lava
+[17Apr2025 05:20:03.464] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 05:20:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> esq recien entras
+[17Apr2025 05:20:17.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla tried to swim in lava
+[17Apr2025 05:20:17.859] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 05:20:35.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla tried to swim in lava
+[17Apr2025 05:20:35.230] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[17Apr2025 05:20:46.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> ptmr lo unico seguro es esta aldea

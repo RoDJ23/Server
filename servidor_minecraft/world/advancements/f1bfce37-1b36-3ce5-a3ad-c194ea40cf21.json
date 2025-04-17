@@ -3478,12 +3478,6 @@
     },
     "done": true
   },
-  "spore:inquisitor": {
-    "criteria": {
-      "hurt_by_infected": "2025-04-16 18:14:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-04-16 18:13:04 +0000"
@@ -3517,6 +3511,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-16 18:13:04 +0000"
+    },
+    "done": true
+  },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-16 18:14:56 +0000"
     },
     "done": true
   },
