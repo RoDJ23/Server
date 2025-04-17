@@ -39,6 +39,7 @@
       "minecraft:lush_caves": "2025-04-15 22:52:54 +0000",
       "minecraft:ocean": "2025-04-17 06:01:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 22:33:17 +0000",
+      "minecraft:meadow": "2025-04-17 18:10:33 +0000",
       "minecraft:plains": "2025-04-17 15:37:34 +0000"
     },
     "done": false
@@ -4067,33 +4068,9 @@
     },
     "done": true
   },
-  "spore:scamper": {
-    "criteria": {
-      "hurt_infected": "2025-04-17 15:40:30 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-04-17 15:53:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/choose_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-04-17 15:34:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-17 15:21:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-04-17 15:38:29 +0000"
     },
     "done": true
   },
@@ -4115,9 +4092,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+  "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
-      "has_lily_of_the_valley": "2025-04-17 15:36:32 +0000"
+      "has_amethyst_shard": "2025-04-17 15:21:07 +0000"
     },
     "done": true
   },
@@ -4127,27 +4104,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-04-17 15:21:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2025-04-17 15:39:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-04-17 15:53:11 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2025-04-17 15:34:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 15:34:41 +0000"
+    },
+    "done": true
+  },
+  "spore:brotkatze": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 15:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-04-17 15:36:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-04-17 15:38:29 +0000"
     },
     "done": true
   },
@@ -4157,9 +4140,153 @@
     },
     "done": true
   },
-  "spore:brotkatze": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "hurt_infected": "2025-04-17 15:35:17 +0000"
+      "coded_trigger": "2025-04-17 15:39:09 +0000"
+    },
+    "done": true
+  },
+  "spore:scamper": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 15:40:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-17 15:53:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-04-17 15:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-17 16:05:44 +0000"
+    },
+    "done": true
+  },
+  "spore:lost_technology": {
+    "criteria": {
+      "pick_up_compound_plate": "2025-04-17 16:13:23 +0000"
+    },
+    "done": true
+  },
+  "spore:scanning_world": {
+    "criteria": {
+      "pick_up_scanner": "2025-04-17 16:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-17 16:13:36 +0000"
+    },
+    "done": true
+  },
+  "spore:focused_searched": {
+    "criteria": {
+      "pick_up_zoaholic": "2025-04-17 16:14:08 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-17 16:14:51 +0000"
+    },
+    "done": true
+  },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 16:20:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-17 16:21:16 +0000"
+    },
+    "done": true
+  },
+  "spore:howler": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 16:21:20 +0000"
+    },
+    "done": true
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 16:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-17 16:25:16 +0000"
+    },
+    "done": true
+  },
+  "spore:leaper": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 16:25:39 +0000"
+    },
+    "done": true
+  },
+  "spore:usurper": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 16:26:37 +0000"
+    },
+    "done": true
+  },
+  "spore:twisted_creation": {
+    "criteria": {
+      "pick_up_surgery": "2025-04-17 16:28:53 +0000"
+    },
+    "done": true
+  },
+  "spore:gastgaber": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 17:17:44 +0000"
+    },
+    "done": true
+  },
+  "spore:vigil": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 17:18:57 +0000"
+    },
+    "done": true
+  },
+  "spore:braurei": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 17:19:29 +0000"
+    },
+    "done": true
+  },
+  "spore:griefer": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 17:23:33 +0000"
+    },
+    "done": true
+  },
+  "spore:umarmed": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 17:54:49 +0000"
+    },
+    "done": true
+  },
+  "spore:sieger": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 17:52:12 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-17 18:09:50 +0000"
     },
     "done": true
   },

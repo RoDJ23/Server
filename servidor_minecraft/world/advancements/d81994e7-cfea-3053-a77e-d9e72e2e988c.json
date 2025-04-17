@@ -1342,7 +1342,9 @@
       "minecraft:skeleton": "2025-04-15 22:29:27 +0000",
       "minecraft:spider": "2025-04-15 22:43:16 +0000",
       "minecraft:creeper": "2025-04-15 22:49:42 +0000",
-      "minecraft:zombie": "2025-04-15 22:43:01 +0000"
+      "minecraft:witch": "2025-04-17 16:17:11 +0000",
+      "minecraft:zombie": "2025-04-15 22:43:01 +0000",
+      "minecraft:drowned": "2025-04-17 17:18:49 +0000"
     },
     "done": false
   },
@@ -1984,6 +1986,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-17 16:08:46 +0000",
       "cooked_mutton": "2025-04-15 22:32:57 +0000",
       "cooked_beef": "2025-04-15 22:36:16 +0000",
       "beef": "2025-04-17 06:17:22 +0000",
@@ -3854,6 +3857,174 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-04-17 15:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-17 16:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 16:09:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-17 16:09:54 +0000"
+    },
+    "done": true
+  },
+  "spore:inquisitor": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 16:20:26 +0000"
+    },
+    "done": true
+  },
+  "spore:delusioner": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 16:21:01 +0000"
+    },
+    "done": true
+  },
+  "spore:focused_searched": {
+    "criteria": {
+      "pick_up_zoaholic": "2025-04-17 16:27:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-17 16:39:45 +0000"
+    },
+    "done": true
+  },
+  "spore:nuclea": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 16:39:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-17 16:42:58 +0000"
+    },
+    "done": true
+  },
+  "spore:lost_technology": {
+    "criteria": {
+      "pick_up_compound_plate": "2025-04-17 16:46:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-17 16:49:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 17:15:39 +0000"
+    },
+    "done": true
+  },
+  "spore:bloater": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 17:21:36 +0000"
+    },
+    "done": true
+  },
+  "spore:jagd": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 17:21:47 +0000"
+    },
+    "done": true
+  },
+  "spore:knight": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 17:22:58 +0000"
+    },
+    "done": true
+  },
+  "spore:volatile": {
+    "criteria": {
+      "hurt_by_infected": "2025-04-17 17:33:47 +0000"
+    },
+    "done": true
+  },
+  "spore:braurei": {
+    "criteria": {
+      "hurt_infected": "2025-04-17 17:38:54 +0000"
+    },
+    "done": true
+  },
+  "spore:twisted_creation": {
+    "criteria": {
+      "pick_up_surgery": "2025-04-17 17:42:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-17 17:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-17 17:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-17 17:55:38 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-17 18:00:52 +0000"
+    },
+    "done": true
+  },
+  "spore:scanning_world": {
+    "criteria": {
+      "pick_up_scanner": "2025-04-17 18:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-17 18:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-17 18:06:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/cog_block": {
+    "criteria": {
+      "has_redstone_block": "2025-04-17 18:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-17 18:06:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-04-17 22:08:37 +0000"
     },
     "done": true
   },
