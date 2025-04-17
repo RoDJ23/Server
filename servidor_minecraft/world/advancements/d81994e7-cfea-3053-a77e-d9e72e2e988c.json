@@ -3537,6 +3537,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/building_blocks/spore/sign_post_rotten": {
+    "criteria": {
+      "has_item": "2025-04-17 06:24:34 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-17 05:41:05 +0000"
