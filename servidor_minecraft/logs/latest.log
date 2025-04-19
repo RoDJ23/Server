@@ -371,3 +371,49 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [19Apr2025 21:23:52.219] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
 [19Apr2025 21:30:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Barrel Booty]
 [19Apr2025 21:33:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [What a Deal!]
+[19Apr2025 21:34:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Wither Skeleton
+[19Apr2025 21:34:25.957] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:34:32.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[19Apr2025 21:34:32.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[19Apr2025 21:34:59.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:45119] logged in with entity id 79188 at (2012.2716187696826, 71.0, -269.1842246873037)
+[19Apr2025 21:34:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[19Apr2025 21:34:59.228] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[19Apr2025 21:36:11.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/79190, l='ServerLevel[world]', x=2015.36, y=73.17, z=-223.71] died, message: 'Librarian was shot by Luticlla'
+[19Apr2025 21:37:31.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 0.623967424084106
+[19Apr2025 21:37:31.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 1.108864809302929
+[19Apr2025 21:37:31.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 1.4750922062622098
+[19Apr2025 21:37:31.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 1.8748009333337983
+[19Apr2025 21:37:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Piglin
+[19Apr2025 21:37:58.759] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:38:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Piglin
+[19Apr2025 21:38:10.144] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:41:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Piglin
+[19Apr2025 21:41:37.706] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:41:52.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was doomed to fall by Piglin
+[19Apr2025 21:41:52.514] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:43:46.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZZZ
+[19Apr2025 21:44:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 discovered the floor was lava
+[19Apr2025 21:44:30.445] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:45:15.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 discovered the floor was lava
+[19Apr2025 21:45:15.052] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:45:17.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1643, y=77, z=1693} BlockPos{x=1643, y=79, z=1693}
+[19Apr2025 21:46:55.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla fell from a high place
+[19Apr2025 21:46:55.303] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[19Apr2025 21:47:16.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 withered away whilst fighting Wither Skeleton
+[19Apr2025 21:47:16.202] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:48:03.547] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[19Apr2025 21:48:07.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[19Apr2025 21:48:39.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Centennial]
+[19Apr2025 21:49:18.901] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[19Apr2025 21:49:18.901] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[19Apr2025 21:50:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has succumbed to the infection
+[19Apr2025 21:50:21.006] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[19Apr2025 21:50:29.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Luticlla'/91934, l='ServerLevel[world]', x=1607.19, y=69.00, z=1694.38] died: Luticlla fell from a high place
+[19Apr2025 21:50:51.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1647, y=111, z=1687} BlockPos{x=1648, y=109, z=1687}
+[19Apr2025 21:54:15.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 fell from a high place
+[19Apr2025 21:54:15.394] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 21:59:39.031] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1727, y=7, z=2608}
+[19Apr2025 21:59:42.912] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1727, y=7, z=2608}
+[19Apr2025 22:09:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZzzZzZzZzZzZz
+[19Apr2025 22:21:12.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[19Apr2025 22:21:12.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game

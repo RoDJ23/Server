@@ -31,19 +31,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-19 22:16:19 +0000",
       "minecraft:deep_ocean": "2025-04-18 01:55:12 +0000",
       "minecraft:birch_forest": "2025-04-15 22:16:35 +0000",
       "minecraft:windswept_hills": "2025-04-17 22:27:44 +0000",
       "minecraft:beach": "2025-04-16 00:08:19 +0000",
       "minecraft:dark_forest": "2025-04-16 00:07:20 +0000",
       "minecraft:river": "2025-04-15 22:17:53 +0000",
+      "minecraft:stony_shore": "2025-04-19 22:20:04 +0000",
       "minecraft:dripstone_caves": "2025-04-18 02:13:55 +0000",
+      "minecraft:grove": "2025-04-19 22:14:34 +0000",
       "minecraft:forest": "2025-04-15 22:13:26 +0000",
       "minecraft:lush_caves": "2025-04-15 22:52:54 +0000",
       "minecraft:windswept_forest": "2025-04-19 20:10:06 +0000",
       "minecraft:ocean": "2025-04-17 06:01:12 +0000",
       "minecraft:windswept_savanna": "2025-04-17 22:34:48 +0000",
       "minecraft:flower_forest": "2025-04-18 02:11:07 +0000",
+      "minecraft:frozen_peaks": "2025-04-19 22:15:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-15 22:33:17 +0000",
       "minecraft:meadow": "2025-04-17 18:10:33 +0000",
       "minecraft:plains": "2025-04-17 15:37:34 +0000"
@@ -4831,6 +4835,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-19 22:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-04-19 21:21:45 +0000"
@@ -4878,6 +4888,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-19 21:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-19 22:09:30 +0000"
     },
     "done": true
   },
@@ -4935,6 +4951,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_item": "2025-04-19 21:40:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-19 19:47:48 +0000"
@@ -4944,6 +4966,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-04-19 20:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
     },
     "done": true
   },
@@ -5037,6 +5065,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-19 21:40:34 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-04-19 20:30:24 +0000"
@@ -5061,15 +5095,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_warped": {
+    "criteria": {
+      "has_the_recipe": "2025-04-19 21:40:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-04-19 19:47:48 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2025-04-19 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
     },
     "done": true
   },
@@ -5082,6 +5146,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2025-04-19 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
     },
     "done": true
   },
@@ -5163,6 +5233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-19 22:09:30 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-04-19 21:30:58 +0000"
@@ -5184,6 +5266,12 @@
   "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-04-19 19:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
     },
     "done": true
   },
@@ -5247,9 +5335,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 21:40:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-19 21:28:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-04-19 21:40:42 +0000"
     },
     "done": true
   },
@@ -5265,6 +5365,12 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-19 21:48:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-19 19:47:48 +0000"
@@ -5274,6 +5380,12 @@
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-19 19:47:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-19 21:40:42 +0000"
     },
     "done": true
   },
