@@ -3648,18 +3648,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2025-04-19 22:16:28 +0000"
-    },
-    "done": true
-  },
-  "toughasnails:recipes/decorations/thermoregulator": {
-    "criteria": {
-      "has_thermometer": "2025-04-19 22:16:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-19 21:41:52 +0000"
@@ -3696,12 +3684,6 @@
     },
     "done": true
   },
-  "toughasnails:recipes/redstone/temperature_gauge": {
-    "criteria": {
-      "has_thermometer": "2025-04-19 22:16:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-19 21:41:52 +0000"
@@ -3711,6 +3693,24 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-04-19 21:41:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-19 22:16:28 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2025-04-19 22:16:31 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2025-04-19 22:16:31 +0000"
     },
     "done": true
   },
