@@ -3593,5 +3593,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-04-19 20:10:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
