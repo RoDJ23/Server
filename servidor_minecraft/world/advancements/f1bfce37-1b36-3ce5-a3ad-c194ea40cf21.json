@@ -4380,5 +4380,11 @@
     },
     "done": true
   },
+  "spore:sieger": {
+    "criteria": {
+      "hurt_infected": "2025-04-19 19:54:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
