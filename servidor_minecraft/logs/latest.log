@@ -361,3 +361,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [19Apr2025 21:09:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [We Need to Go Deeper]
 [19Apr2025 21:11:17.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoDJ23 lost connection: Disconnected
 [19Apr2025 21:11:17.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 left the game
+[19Apr2025 21:14:56.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [Neighborhood Brawl]
+[19Apr2025 21:16:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [A Terrible Fortress]
+[19Apr2025 21:18:01.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Into Fire]
+[19Apr2025 21:23:48.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[19Apr2025 21:23:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[19Apr2025 21:23:52.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:36767] logged in with entity id 76084 at (2015.9135753632534, 74.9375, -234.93515341515408)
+[19Apr2025 21:23:52.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[19Apr2025 21:23:52.219] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[19Apr2025 21:30:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Barrel Booty]
+[19Apr2025 21:33:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [What a Deal!]
