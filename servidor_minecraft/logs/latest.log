@@ -251,3 +251,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [19Apr2025 19:59:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> a mi tambien
 [19Apr2025 19:59:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> nika
 [19Apr2025 20:00:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> tengo .-.
+[19Apr2025 20:02:17.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Apr2025 20:04:27.958] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2159, y=-33, z=707}
+[19Apr2025 20:04:28.167] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2159, y=-33, z=707}
+[19Apr2025 20:04:41.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> si
+[19Apr2025 20:05:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> xaero-waypoint:Shared Location:S:1056:64:44:8:false:0:Internal-overworld-waypoints
+[19Apr2025 20:05:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> esa es la casa
+[19Apr2025 20:05:17.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> xaero-waypoint:Shared Location:S:1059:74:2074:8:false:0:Internal-overworld-waypoints
+[19Apr2025 20:05:27.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> si
+[19Apr2025 20:09:53.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[19Apr2025 20:09:53.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[19Apr2025 20:10:44.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:56979] logged in with entity id 27760 at (1215.4731760958518, 62.766963519668586, 283.1173281743263)
+[19Apr2025 20:10:44.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[19Apr2025 20:10:44.416] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[19Apr2025 20:10:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has reached the goal [Strong or Careful]
+[19Apr2025 20:10:59.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was dismantled by Sieger
+[19Apr2025 20:10:59.041] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[19Apr2025 20:11:01.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> xd
+[19Apr2025 20:12:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> ya safo
+[19Apr2025 20:12:21.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[19Apr2025 20:12:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
