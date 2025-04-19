@@ -292,3 +292,65 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [19Apr2025 20:15:31.533] [Server thread/INFO] [Jade/]: Syncing config to RoDJ23 (d81994e7-cfea-3053-a77e-d9e72e2e988c)
 [19Apr2025 20:17:06.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> DC oe
 [19Apr2025 20:22:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xaero-waypoint:ALDEA:A:1911:70:-233:8:false:0:Internal-overworld-waypoints
+[19Apr2025 20:26:54.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ambush]
+[19Apr2025 20:27:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Voluntary Exile]
+[19Apr2025 20:28:32.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/37084, l='ServerLevel[world]', x=2030.50, y=73.00, z=-270.33] died, message: 'Cleric was slain by Vindicator'
+[19Apr2025 20:29:02.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was slain by Vindicator
+[19Apr2025 20:29:03.095] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
+[19Apr2025 20:30:24.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Fortuitous Militia]
+[19Apr2025 20:31:03.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/34870, l='ServerLevel[world]', x=1979.50, y=70.00, z=-211.30] died, message: 'Farmer was slain by Vindicator'
+[19Apr2025 20:32:14.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/34871, l='ServerLevel[world]', x=2034.96, y=75.96, z=-282.62] died, message: 'Cleric was slain by Vindicator'
+[19Apr2025 20:34:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Hero of the Village]
+[19Apr2025 20:34:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has completed the challenge [Hero of the Village]
+[19Apr2025 20:38:54.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[19Apr2025 20:38:54.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[19Apr2025 20:39:21.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:59873] logged in with entity id 51697 at (1149.4346823476942, 64.0, 100.33710413462806)
+[19Apr2025 20:39:21.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[19Apr2025 20:39:21.600] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[19Apr2025 20:40:09.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/52310, l='ServerLevel[world]', x=1752.26, y=102.50, z=-306.07] died: Deyvid was slain by Seta33
+[19Apr2025 20:40:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Postmortal]
+[19Apr2025 20:40:46.058] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[19Apr2025 20:42:57.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/54428, l='ServerLevel[world]', x=1750.58, y=106.00, z=-311.37] died: Ripley was shot by RoDJ23
+[19Apr2025 20:42:59.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/53142, l='ServerLevel[world]', x=1749.65, y=106.00, z=-311.13] died: Dany_Why was shot by RoDJ23
+[19Apr2025 20:43:12.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1085, y=64, z=34} BlockPos{x=1087, y=62, z=35}
+[19Apr2025 20:47:15.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[19Apr2025 20:47:15.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[19Apr2025 20:47:19.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:35949] logged in with entity id 57711 at (1158.699999988079, 63.0, 91.45943792583735)
+[19Apr2025 20:47:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[19Apr2025 20:47:19.885] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[19Apr2025 20:47:52.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[19Apr2025 20:47:52.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[19Apr2025 20:48:47.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:33975] logged in with entity id 58042 at (1169.2486864920857, 39.0, 156.36413047511394)
+[19Apr2025 20:48:47.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[19Apr2025 20:48:47.421] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[19Apr2025 20:48:59.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1164, y=36, z=160} BlockPos{x=1163, y=34, z=160}
+[19Apr2025 20:52:26.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was eaten alive by Infected Human
+[19Apr2025 20:52:26.103] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[19Apr2025 20:52:26.179] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 20:52:26.180] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[19Apr2025 20:52:26.180] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Apr2025 20:52:26.180] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Apr2025 20:52:26.181] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 20:52:27.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=103, z=-306} BlockPos{x=1731, y=101, z=-307}
+[19Apr2025 20:52:27.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=103, z=-306} BlockPos{x=1731, y=101, z=-307}
+[19Apr2025 20:52:27.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1733, y=102, z=-306} BlockPos{x=1731, y=101, z=-307}
+[19Apr2025 20:52:30.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=102, z=-309} BlockPos{x=1731, y=101, z=-309}
+[19Apr2025 20:52:30.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=102, z=-309} BlockPos{x=1731, y=101, z=-309}
+[19Apr2025 20:52:31.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1731, y=102, z=-311} BlockPos{x=1732, y=101, z=-312}
+[19Apr2025 20:52:31.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1731, y=102, z=-311} BlockPos{x=1732, y=101, z=-312}
+[19Apr2025 20:53:03.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1745, y=102, z=-318} BlockPos{x=1745, y=104, z=-317}
+[19Apr2025 20:57:31.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1102, y=-23, z=146} BlockPos{x=1102, y=-24, z=145}
+[19Apr2025 20:58:28.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[19Apr2025 20:58:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[19Apr2025 20:58:32.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:42935] logged in with entity id 64494 at (1094.300000011921, -10.0, 124.10088137113452)
+[19Apr2025 20:58:32.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[19Apr2025 20:58:32.640] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[19Apr2025 20:59:29.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1676, y=62, z=-395} BlockPos{x=1674, y=60, z=-394}
+[19Apr2025 20:59:47.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was eaten alive by Infected Human
+[19Apr2025 20:59:47.354] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[19Apr2025 20:59:47.377] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Apr2025 20:59:47.377] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[19Apr2025 20:59:47.377] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Apr2025 20:59:47.378] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Apr2025 20:59:47.378] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Apr2025 21:02:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> dc oe esteban
