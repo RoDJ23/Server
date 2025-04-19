@@ -354,3 +354,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [19Apr2025 20:59:47.378] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
 [19Apr2025 20:59:47.378] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [19Apr2025 21:02:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> dc oe esteban
+[19Apr2025 21:05:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Penteconter]
+[19Apr2025 21:06:22.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has reached the goal [I see clearly now]
+[19Apr2025 21:08:26.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [We Need to Go Deeper]
+[19Apr2025 21:08:27.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
+[19Apr2025 21:09:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [We Need to Go Deeper]
+[19Apr2025 21:11:17.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoDJ23 lost connection: Disconnected
+[19Apr2025 21:11:17.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 left the game

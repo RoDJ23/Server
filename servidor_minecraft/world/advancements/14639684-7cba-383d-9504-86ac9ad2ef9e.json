@@ -1993,6 +1993,7 @@
       "minecraft:evoker": "2025-04-19 20:32:50 +0000",
       "minecraft:witch": "2025-04-19 20:31:17 +0000",
       "minecraft:cave_spider": "2025-04-15 23:34:51 +0000",
+      "minecraft:piglin": "2025-04-19 21:09:28 +0000",
       "minecraft:enderman": "2025-04-19 20:07:31 +0000",
       "minecraft:zombie": "2025-04-15 22:48:08 +0000",
       "minecraft:drowned": "2025-04-17 15:49:39 +0000"
@@ -4826,6 +4827,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-19 21:08:28 +0000",
+      "minecraft:warped_forest": "2025-04-19 21:09:32 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-04-19 19:47:48 +0000"
@@ -4835,6 +4843,12 @@
   "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
     "criteria": {
       "has_stone_types_ochrum": "2025-04-19 19:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:08:26 +0000"
     },
     "done": true
   },
@@ -5003,6 +5017,12 @@
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-04-19 20:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:08:26 +0000"
     },
     "done": true
   },

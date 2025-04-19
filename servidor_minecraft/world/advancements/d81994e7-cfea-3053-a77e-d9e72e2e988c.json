@@ -1344,6 +1344,7 @@
       "minecraft:spider": "2025-04-15 22:43:16 +0000",
       "minecraft:creeper": "2025-04-15 22:49:42 +0000",
       "minecraft:witch": "2025-04-17 16:17:11 +0000",
+      "minecraft:piglin": "2025-04-19 21:09:40 +0000",
       "minecraft:zombie": "2025-04-15 22:43:01 +0000",
       "minecraft:drowned": "2025-04-17 17:18:49 +0000",
       "minecraft:zombie_villager": "2025-04-18 02:21:49 +0000"
@@ -4282,6 +4283,25 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-19 21:09:18 +0000",
+      "minecraft:warped_forest": "2025-04-19 21:09:28 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-04-19 21:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:09:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2025-04-19 20:34:04 +0000"
@@ -4294,9 +4314,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_brick_slab": "2025-04-19 21:08:44 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-19 21:05:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-04-19 20:53:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-19 21:09:17 +0000"
     },
     "done": true
   },
@@ -4315,6 +4353,12 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
     "criteria": {
       "has_copper_backpack": "2025-04-19 20:46:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-19 21:07:25 +0000"
     },
     "done": true
   },
