@@ -1,0 +1,8 @@
+"Griefing Parameters" = {}
+
+[Compatibilities]
+	#Default false
+	"Should there be a compatibility with FAW?" = false
+	#Default false
+	"Should there be a compatibility with Sculk Infection?" = false
+
