@@ -4381,15 +4381,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-19 20:09:10 +0000"
-    },
-    "done": true
-  },
   "spore:sieger": {
     "criteria": {
       "hurt_infected": "2025-04-19 19:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-19 20:09:10 +0000"
     },
     "done": true
   },

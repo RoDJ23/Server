@@ -5445,5 +5445,11 @@
     },
     "done": true
   },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-20 03:38:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
