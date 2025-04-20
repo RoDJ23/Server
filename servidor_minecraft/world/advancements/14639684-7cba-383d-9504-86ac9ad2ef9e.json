@@ -5740,5 +5740,11 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-04-20 04:40:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
