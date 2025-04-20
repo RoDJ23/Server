@@ -5446,9 +5446,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-20 04:03:56 +0000"
+    },
+    "done": true
+  },
   "toughasnails:recipes/food/apple_juice": {
     "criteria": {
       "has_apple": "2025-04-20 03:38:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-20 04:03:56 +0000"
     },
     "done": true
   },
