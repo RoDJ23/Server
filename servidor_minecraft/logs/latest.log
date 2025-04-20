@@ -220,3 +220,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [20Apr2025 03:08:03.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
 [20Apr2025 03:12:22.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Timed out
 [20Apr2025 03:12:22.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[20Apr2025 03:20:49.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.172.107.61:38005] logged in with entity id 8890 at (4840.827484645012, 79.0, 2211.0368821162547)
+[20Apr2025 03:20:49.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[20Apr2025 03:20:49.559] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
