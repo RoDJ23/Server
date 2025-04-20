@@ -276,3 +276,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [20Apr2025 19:47:25.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 0.3442634237994753
 [20Apr2025 19:47:25.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 0.28725066044034975
 [20Apr2025 19:47:25.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 0.384174781675938
+[20Apr2025 19:48:23.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[20Apr2025 19:48:23.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[20Apr2025 19:48:27.880] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.31.162.140:48099] logged in with entity id 28895 at (2232.0428206501197, 92.0, 3049.6086233754017)
+[20Apr2025 19:48:27.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[20Apr2025 19:48:27.899] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[20Apr2025 19:51:22.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RoDJ23[/127.181.118.198:44867] logged in with entity id 32273 at (1527.554000675572, -8.0, -283.2881492141358)
+[20Apr2025 19:51:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 joined the game
+[20Apr2025 19:51:22.559] [Server thread/INFO] [Jade/]: Syncing config to RoDJ23 (d81994e7-cfea-3053-a77e-d9e72e2e988c)
+[20Apr2025 19:52:01.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[20Apr2025 19:52:18.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[20Apr2025 19:52:35.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[20Apr2025 19:52:51.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has reached the goal [Fortuitous Militia]
+[20Apr2025 19:53:15.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[20Apr2025 19:53:52.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 19:54:34.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 19:56:01.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has reached the goal [Waterworld]
+[20Apr2025 19:56:15.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Apr2025 19:56:59.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Knowledge raises the soul]
