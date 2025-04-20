@@ -472,3 +472,51 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [20Apr2025 04:57:57.491] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [20Apr2025 04:58:15.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2549ms or 50 ticks behind
 [20Apr2025 04:58:54.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Apr2025 04:59:13.061] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56504, l='ServerLevel[world]', x=2231.69, y=91.90, z=3043.69] died, message: 'Unemployed was slain by Zombie'
+[20Apr2025 04:59:19.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Apr2025 04:59:24.365] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/56505, l='ServerLevel[world]', x=2229.70, y=92.00, z=3044.70] died, message: 'Unemployed was slain by Zombie'
+[20Apr2025 04:59:46.598] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[20Apr2025 05:00:14.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20Apr2025 05:00:19.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> zzzzzzzzzz
+[20Apr2025 05:02:49.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [What a Deal!]
+[20Apr2025 05:03:54.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[20Apr2025 05:08:44.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58443, l='ServerLevel[world]', x=1272.01, y=64.00, z=1293.44] died, message: 'Unemployed has succumbed to the infection'
+[20Apr2025 05:08:50.688] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/61276, l='ServerLevel[world]', x=1268.38, y=64.00, z=1295.56] died: Pajera was shot by GreyRP87
+[20Apr2025 05:09:08.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 05:09:30.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Seta33 a server operator
+[20Apr2025 05:09:38.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[20Apr2025 05:09:39.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[20Apr2025 05:10:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Survival Mode]
+[20Apr2025 05:10:03.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[20Apr2025 05:10:05.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[20Apr2025 05:10:05.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[20Apr2025 05:10:10.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Made Seta33 no longer a server operator]
+[20Apr2025 05:10:11.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.31.162.140:56531] logged in with entity id 62463 at (4855.5, 79.5, 2209.5)
+[20Apr2025 05:10:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[20Apr2025 05:10:11.575] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[20Apr2025 05:10:29.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[20Apr2025 05:10:29.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[20Apr2025 05:11:44.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.31.162.140:33267] logged in with entity id 63271 at (4855.509319400406, 79.05000001192093, 2209.7342143129913)
+[20Apr2025 05:11:44.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[20Apr2025 05:11:44.946] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[20Apr2025 05:14:44.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/63383, l='ServerLevel[world]', x=1276.28, y=64.00, z=1303.07] died, message: 'Nitwit has succumbed to the infection'
+[20Apr2025 05:14:56.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/63402, l='ServerLevel[world]', x=1270.03, y=64.05, z=1294.83] died, message: 'Nitwit was eaten alive by ABucketOfFriedChicken'
+[20Apr2025 05:15:11.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/64202, l='ServerLevel[world]', x=1268.91, y=64.00, z=1295.50] died: ABucketOfFriedChicken was shot by GreyRP87
+[20Apr2025 05:16:07.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZZZZ
+[20Apr2025 05:16:07.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[20Apr2025 05:16:07.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[20Apr2025 05:16:08.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[20Apr2025 05:16:08.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[20Apr2025 05:16:24.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZZZ
+[20Apr2025 05:16:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[20Apr2025 05:16:26.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[20Apr2025 05:16:28.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/64957, l='ServerLevel[world]', x=1270.25, y=64.13, z=1301.30] died: JhonOK22 was slain by GreyRP87
+[20Apr2025 05:16:33.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> safo
+[20Apr2025 05:16:35.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[20Apr2025 05:16:35.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[20Apr2025 05:18:43.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[20Apr2025 05:18:43.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[20Apr2025 05:18:47.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.31.162.140:40067] logged in with entity id 65928 at (4848.459369188565, 79.5, 2214.81732791889)
+[20Apr2025 05:18:47.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[20Apr2025 05:18:47.434] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[20Apr2025 05:28:16.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> zz
