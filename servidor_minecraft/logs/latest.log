@@ -279,3 +279,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [20Apr2025 03:45:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> no pero pense hacer granaj de ladeanos solo pa tirarlos a los infectados
 [20Apr2025 03:45:43.105] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15009, l='ServerLevel[world]', x=1785.31, y=64.00, z=1910.02] died, message: 'Unemployed hit the ground too hard'
 [20Apr2025 03:46:06.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/17458, l='ServerLevel[world]', x=1271.09, y=64.00, z=1299.48] died: JhonOK22 froze to death
+[20Apr2025 03:46:25.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[20Apr2025 03:46:25.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[20Apr2025 03:46:27.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/17604, l='ServerLevel[world]', x=1269.74, y=64.00, z=1301.93] died: Whisper froze to death
+[20Apr2025 03:46:29.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.31.162.140:52441] logged in with entity id 17640 at (2221.840088386622, 72.68500008316792, 3041.8701409556243)
+[20Apr2025 03:46:29.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[20Apr2025 03:46:29.916] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[20Apr2025 03:46:29.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> agg
+[20Apr2025 03:46:31.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla fell from a high place
+[20Apr2025 03:46:31.469] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
+[20Apr2025 03:46:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> xd
+[20Apr2025 03:46:47.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/17901, l='ServerLevel[world]', x=1269.58, y=64.00, z=1301.59] died: Mademoiselle2016 froze to death
+[20Apr2025 03:46:50.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[20Apr2025 03:46:50.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[20Apr2025 03:50:20.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.31.162.140:45973] logged in with entity id 18931 at (2221.5, 64.1, 3041.5)
+[20Apr2025 03:50:20.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[20Apr2025 03:50:20.950] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[20Apr2025 03:51:38.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> osea por wbn
+[20Apr2025 03:52:27.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> xaero-waypoint:Shared Location:S:4847:80:2218:7:false:0:Internal-overworld-waypoints
+[20Apr2025 03:53:57.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[20Apr2025 03:54:16.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[20Apr2025 03:54:16.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Not even afraid of death]
+[20Apr2025 03:54:16.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Back to childhood]
+[20Apr2025 03:54:35.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3783ms or 75 ticks behind
+[20Apr2025 03:54:40.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> muñeco budoo
+[20Apr2025 03:54:52.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[20Apr2025 03:54:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> es como un totem
+[20Apr2025 03:55:29.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[20Apr2025 03:55:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[20Apr2025 03:55:38.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:39399] logged in with entity id 21910 at (1269.0636642978945, 68.125, 1308.0441889835856)
+[20Apr2025 03:55:38.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
+[20Apr2025 03:55:38.784] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
+[20Apr2025 03:56:01.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> peresa poner tp pa volver a base
