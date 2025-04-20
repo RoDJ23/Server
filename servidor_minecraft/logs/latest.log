@@ -1,71 +1,71 @@
-[19Apr2025 19:42:04.705] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[19Apr2025 19:42:04.708] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[19Apr2025 19:42:05.892] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Apr2025 19:42:05.952] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Apr2025 19:42:06.312] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Apr2025 19:42:06.314] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Apr2025 19:42:06.315] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Apr2025 19:42:06.316] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Apr2025 19:42:06.570] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[19Apr2025 19:42:09.018] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[19Apr2025 19:42:09.199] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[19Apr2025 19:42:09.202] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[19Apr2025 19:42:09.329] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 100 options available, 0 override(s) found
-[19Apr2025 19:42:09.416] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[19Apr2025 19:42:10.978] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
-[19Apr2025 19:42:11.860] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[19Apr2025 19:42:20.797] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[19Apr2025 19:42:20.797] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[19Apr2025 19:42:20.797] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[19Apr2025 19:42:20.797] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[19Apr2025 19:42:20.798] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[19Apr2025 19:42:20.798] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[19Apr2025 19:42:20.798] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[19Apr2025 19:42:20.898] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Apr2025 19:42:20.899] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Apr2025 19:42:21.150] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[19Apr2025 19:42:21.609] [modloading-worker-0/INFO] [fonnymunkey.simplehats.SimpleHats/]: Loaded 293 hat entries from simplehats.json
-[19Apr2025 19:42:22.243] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[19Apr2025 19:42:26.569] [main/INFO] [Moonlight/]: Initialized block sets in 15ms
-[19Apr2025 19:42:26.751] [main/INFO] [fonnymunkey.simplehats.SimpleHats/]: Generated 293 hat items from hat entries.
-[19Apr2025 19:42:27.466] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
-[19Apr2025 19:42:27.468] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
-[19Apr2025 19:42:27.468] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
-[19Apr2025 19:42:27.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[19Apr2025 19:42:27.753] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[19Apr2025 19:42:27.759] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[19Apr2025 19:42:27.822] [main/INFO] [Moonlight/]: Initialized color sets in 34ms
-[19Apr2025 19:42:27.958] [main/INFO] [Supplementaries/]: Finished mod setup in: [41, 2, 0, 1, 0, 0, 14, 5, 1] ms
-[19Apr2025 19:42:27.969] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[19Apr2025 19:42:27.970] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[19Apr2025 19:42:27.972] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[19Apr2025 19:42:27.972] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[19Apr2025 19:42:28.058] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[19Apr2025 19:42:28.075] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[19Apr2025 19:42:28.103] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[19Apr2025 19:42:28.110] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[19Apr2025 19:42:28.114] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
-[19Apr2025 19:42:28.115] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[19Apr2025 19:42:28.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[19Apr2025 19:42:28.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[19Apr2025 19:42:28.799] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
-[19Apr2025 19:42:28.805] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Apr2025 19:42:28.940] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[19Apr2025 19:42:28.942] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[19Apr2025 19:42:29.109] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[19Apr2025 19:42:29.111] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[19Apr2025 19:42:29.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.79 Target: null
-[19Apr2025 19:42:29.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
-[19Apr2025 19:42:29.171] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.26 Target: null
-[19Apr2025 19:42:29.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[19Apr2025 19:42:29.189] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.3 Target: 8.9.4
-[19Apr2025 19:42:31.391] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Apr2025 19:42:33.605] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/assets/.mcassetsroot' uses unexpected schema
-[19Apr2025 19:42:33.606] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/data/.mcassetsroot' uses unexpected schema
-[19Apr2025 19:42:33.703] [main/INFO] [com.simibubi.create.Create/]: Created 143 recipes which will be injected into the game
-[19Apr2025 19:42:33.718] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
-[19Apr2025 19:42:33.867] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 39 ms
-[19Apr2025 19:42:36.740] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+[20Apr2025 01:12:29.725] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[20Apr2025 01:12:29.732] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[20Apr2025 01:12:31.457] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[20Apr2025 01:12:31.543] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[20Apr2025 01:12:31.932] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[20Apr2025 01:12:31.935] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Apr2025 01:12:31.936] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Apr2025 01:12:31.938] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[20Apr2025 01:12:32.289] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[20Apr2025 01:12:35.537] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20Apr2025 01:12:35.861] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[20Apr2025 01:12:35.868] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20Apr2025 01:12:36.056] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 100 options available, 0 override(s) found
+[20Apr2025 01:12:36.178] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[20Apr2025 01:12:37.874] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[20Apr2025 01:12:38.555] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20Apr2025 01:12:47.098] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[20Apr2025 01:12:47.099] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[20Apr2025 01:12:47.100] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[20Apr2025 01:12:47.100] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[20Apr2025 01:12:47.100] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[20Apr2025 01:12:47.100] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[20Apr2025 01:12:47.100] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[20Apr2025 01:12:47.251] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[20Apr2025 01:12:47.251] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[20Apr2025 01:12:47.704] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[20Apr2025 01:12:48.043] [modloading-worker-0/INFO] [fonnymunkey.simplehats.SimpleHats/]: Loaded 293 hat entries from simplehats.json
+[20Apr2025 01:12:48.651] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[20Apr2025 01:12:52.693] [main/INFO] [Moonlight/]: Initialized block sets in 16ms
+[20Apr2025 01:12:52.865] [main/INFO] [fonnymunkey.simplehats.SimpleHats/]: Generated 293 hat items from hat entries.
+[20Apr2025 01:12:53.489] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
+[20Apr2025 01:12:53.492] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
+[20Apr2025 01:12:53.493] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[20Apr2025 01:12:53.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[20Apr2025 01:12:53.830] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[20Apr2025 01:12:53.838] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[20Apr2025 01:12:53.897] [main/INFO] [Moonlight/]: Initialized color sets in 37ms
+[20Apr2025 01:12:53.973] [main/INFO] [Supplementaries/]: Finished mod setup in: [35, 1, 0, 5, 0, 0, 21, 10, 1] ms
+[20Apr2025 01:12:54.044] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[20Apr2025 01:12:54.046] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20Apr2025 01:12:54.048] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[20Apr2025 01:12:54.049] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20Apr2025 01:12:54.121] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[20Apr2025 01:12:54.142] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[20Apr2025 01:12:54.167] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[20Apr2025 01:12:54.171] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[20Apr2025 01:12:54.174] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[20Apr2025 01:12:54.181] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[20Apr2025 01:12:54.533] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[20Apr2025 01:12:54.534] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[20Apr2025 01:12:55.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.13
+[20Apr2025 01:12:55.099] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20Apr2025 01:12:55.290] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[20Apr2025 01:12:55.291] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[20Apr2025 01:12:55.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[20Apr2025 01:12:55.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[20Apr2025 01:12:55.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.79 Target: null
+[20Apr2025 01:12:55.443] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[20Apr2025 01:12:55.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.26 Target: null
+[20Apr2025 01:12:55.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[20Apr2025 01:12:55.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.8.3 Target: 8.9.4
+[20Apr2025 01:12:57.177] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20Apr2025 01:12:58.911] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/assets/.mcassetsroot' uses unexpected schema
+[20Apr2025 01:12:58.911] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23197!/data/.mcassetsroot' uses unexpected schema
+[20Apr2025 01:12:58.968] [main/INFO] [com.simibubi.create.Create/]: Created 143 recipes which will be injected into the game
+[20Apr2025 01:12:58.977] [main/INFO] [com.simibubi.create.Create/]: Created 1 tags which will be injected into the game
+[20Apr2025 01:12:59.081] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 29 ms
+[20Apr2025 01:13:01.485] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -117,8 +117,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[19Apr2025 19:42:38.459] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[19Apr2025 19:42:38.484] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
+[20Apr2025 01:13:03.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[20Apr2025 01:13:03.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23197!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -156,274 +156,75 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[19Apr2025 19:42:38.490] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[19Apr2025 19:42:38.531] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[19Apr2025 19:42:38.574] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[19Apr2025 19:42:38.696] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[19Apr2025 19:42:38.786] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2995 advancements
-[19Apr2025 19:42:38.795] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
-[19Apr2025 19:42:38.819] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
-[19Apr2025 19:42:38.828] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 24 curio entities
-[19Apr2025 19:42:38.847] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
-[19Apr2025 19:42:40.489] [main/INFO] [Moonlight/]: Applied 7 data villager trades
-[19Apr2025 19:42:40.523] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
-[19Apr2025 19:42:40.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Apr2025 19:42:40.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Apr2025 19:42:40.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Apr2025 19:42:40.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Apr2025 19:42:40.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Apr2025 19:42:40.893] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Apr2025 19:42:40.980] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Apr2025 19:42:40.981] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Apr2025 19:42:40.981] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Apr2025 19:42:40.981] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Apr2025 19:42:41.049] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[19Apr2025 19:42:41.050] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
-[19Apr2025 19:42:41.052] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
-[19Apr2025 19:42:41.053] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
-[19Apr2025 19:42:41.054] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
-[19Apr2025 19:42:41.055] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[19Apr2025 19:42:41.056] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
-[19Apr2025 19:42:41.056] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
-[19Apr2025 19:42:41.057] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
-[19Apr2025 19:42:41.057] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
-[19Apr2025 19:42:41.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Apr2025 19:42:42.569] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
-[19Apr2025 19:42:42.570] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
-[19Apr2025 19:42:42.575] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
-[19Apr2025 19:42:42.576] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
-[19Apr2025 19:42:42.577] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
-[19Apr2025 19:42:45.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Apr2025 19:42:51.326] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.361] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.362] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.362] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.363] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.366] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.368] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.373] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.376] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.382] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:51.698] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Apr2025 19:42:52.197] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 12%
-[19Apr2025 19:42:52.698] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
-[19Apr2025 19:42:53.197] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
-[19Apr2025 19:42:53.393] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8196 ms
-[19Apr2025 19:42:53.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.397s)! For help, type "help"
-[19Apr2025 19:42:53.467] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Apr2025 19:42:53.712] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 118650 bytes (in 12 string chunks with the size of 10000)
-[19Apr2025 19:42:57.472] [Server thread/INFO] [dev.corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:harvest_moon, enhancedcelestials:super_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:super_harvest_moon, enhancedcelestials:blue_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:blood_moon].
-[19Apr2025 19:42:58.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4013ms or 80 ticks behind
-[19Apr2025 19:43:28.646] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.172.107.61:40609] logged in with entity id 1932 at (1049.6886396829111, 36.0, 2048.2918249104255)
-[19Apr2025 19:43:28.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
-[19Apr2025 19:43:28.935] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
-[19Apr2025 19:43:33.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4925ms or 98 ticks behind
-[19Apr2025 19:44:46.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RoDJ23[/127.181.118.198:46503] logged in with entity id 2246 at (1576.6594456343335, 66.0, 754.9968078857254)
-[19Apr2025 19:44:46.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 joined the game
-[19Apr2025 19:44:46.946] [Server thread/INFO] [Jade/]: Syncing config to RoDJ23 (d81994e7-cfea-3053-a77e-d9e72e2e988c)
-[19Apr2025 19:47:49.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:55457] logged in with entity id 3341 at (550.6587075172498, 65.53584062504456, 787.2778635186874)
-[19Apr2025 19:47:49.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 19:47:49.897] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 19:48:09.804] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=367, y=-9, z=684}
-[19Apr2025 19:48:30.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 19:48:30.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 19:48:37.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:51361] logged in with entity id 4408 at (1231.6484635431807, 75.0, 394.69999998807907)
-[19Apr2025 19:48:37.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
-[19Apr2025 19:48:37.824] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
-[19Apr2025 19:49:09.662] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:57201] logged in with entity id 5037 at (564.7848220820301, 66.0, 798.8313143635536)
-[19Apr2025 19:49:09.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 19:49:09.686] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 19:52:04.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Ol' Betsy]
-[19Apr2025 19:52:46.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> toy en la casa anterior y ningun infectado bajesa
-[19Apr2025 19:53:15.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> es agua contaminada
-[19Apr2025 19:53:44.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> veo a al araña mrd
-[19Apr2025 19:54:18.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 has made the advancement [Was that the bite of 87?!]
-[19Apr2025 19:54:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> x21
-[19Apr2025 19:55:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was eaten by Sieger
-[19Apr2025 19:55:11.114] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
-[19Apr2025 19:55:16.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> a la mrd
-[19Apr2025 19:56:10.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 was eaten by Sieger
-[19Apr2025 19:56:10.726] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
-[19Apr2025 19:56:20.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> pera no li vi
-[19Apr2025 19:59:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> a mi tambien
-[19Apr2025 19:59:47.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> nika
-[19Apr2025 20:00:17.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> tengo .-.
-[19Apr2025 20:02:17.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[19Apr2025 20:04:27.958] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2159, y=-33, z=707}
-[19Apr2025 20:04:28.167] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=2159, y=-33, z=707}
-[19Apr2025 20:04:41.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> si
-[19Apr2025 20:05:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> xaero-waypoint:Shared Location:S:1056:64:44:8:false:0:Internal-overworld-waypoints
-[19Apr2025 20:05:15.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> esa es la casa
-[19Apr2025 20:05:17.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> xaero-waypoint:Shared Location:S:1059:74:2074:8:false:0:Internal-overworld-waypoints
-[19Apr2025 20:05:27.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> si
-[19Apr2025 20:09:53.905] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 20:09:53.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 20:10:44.359] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:56979] logged in with entity id 27760 at (1215.4731760958518, 62.766963519668586, 283.1173281743263)
-[19Apr2025 20:10:44.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 20:10:44.416] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 20:10:59.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has reached the goal [Strong or Careful]
-[19Apr2025 20:10:59.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was dismantled by Sieger
-[19Apr2025 20:10:59.041] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
-[19Apr2025 20:11:01.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> xd
-[19Apr2025 20:12:20.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> ya safo
-[19Apr2025 20:12:21.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
-[19Apr2025 20:12:21.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
-[19Apr2025 20:14:30.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> dc oe
-[19Apr2025 20:14:33.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> se te salio
-[19Apr2025 20:14:42.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZZZZ
-[19Apr2025 20:15:08.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzz
-[19Apr2025 20:15:10.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzz
-[19Apr2025 20:15:11.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzzzzz
-[19Apr2025 20:15:13.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzzzzzz
-[19Apr2025 20:15:14.220] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=8}
-[19Apr2025 20:15:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[19Apr2025 20:15:15.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzz
-[19Apr2025 20:15:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzz
-[19Apr2025 20:15:16.995] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoDJ23 lost connection: Disconnected
-[19Apr2025 20:15:16.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 left the game
-[19Apr2025 20:15:17.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> z
-[19Apr2025 20:15:18.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zz
-[19Apr2025 20:15:18.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> z
-[19Apr2025 20:15:31.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RoDJ23[/127.181.118.198:34971] logged in with entity id 34136 at (1843.8187101853184, 72.0, -201.56510432010666)
-[19Apr2025 20:15:31.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 joined the game
-[19Apr2025 20:15:31.533] [Server thread/INFO] [Jade/]: Syncing config to RoDJ23 (d81994e7-cfea-3053-a77e-d9e72e2e988c)
-[19Apr2025 20:17:06.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> DC oe
-[19Apr2025 20:22:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RoDJ23> xaero-waypoint:ALDEA:A:1911:70:-233:8:false:0:Internal-overworld-waypoints
-[19Apr2025 20:26:54.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Ambush]
-[19Apr2025 20:27:21.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Voluntary Exile]
-[19Apr2025 20:28:32.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/37084, l='ServerLevel[world]', x=2030.50, y=73.00, z=-270.33] died, message: 'Cleric was slain by Vindicator'
-[19Apr2025 20:29:02.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 was slain by Vindicator
-[19Apr2025 20:29:03.095] [Server thread/INFO] [tombstone/]: The player RoDJ23 has successfully been saved
-[19Apr2025 20:30:24.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Fortuitous Militia]
-[19Apr2025 20:31:03.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/34870, l='ServerLevel[world]', x=1979.50, y=70.00, z=-211.30] died, message: 'Farmer was slain by Vindicator'
-[19Apr2025 20:32:14.586] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/34871, l='ServerLevel[world]', x=2034.96, y=75.96, z=-282.62] died, message: 'Cleric was slain by Vindicator'
-[19Apr2025 20:34:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Hero of the Village]
-[19Apr2025 20:34:04.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has completed the challenge [Hero of the Village]
-[19Apr2025 20:38:54.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 20:38:54.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 20:39:21.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:59873] logged in with entity id 51697 at (1149.4346823476942, 64.0, 100.33710413462806)
-[19Apr2025 20:39:21.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 20:39:21.600] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 20:40:09.804] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Deyvid'/52310, l='ServerLevel[world]', x=1752.26, y=102.50, z=-306.07] died: Deyvid was slain by Seta33
-[19Apr2025 20:40:46.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has reached the goal [Postmortal]
-[19Apr2025 20:40:46.058] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 20:42:57.239] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/54428, l='ServerLevel[world]', x=1750.58, y=106.00, z=-311.37] died: Ripley was shot by RoDJ23
-[19Apr2025 20:42:59.785] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/53142, l='ServerLevel[world]', x=1749.65, y=106.00, z=-311.13] died: Dany_Why was shot by RoDJ23
-[19Apr2025 20:43:12.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1085, y=64, z=34} BlockPos{x=1087, y=62, z=35}
-[19Apr2025 20:47:15.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 20:47:15.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 20:47:19.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:35949] logged in with entity id 57711 at (1158.699999988079, 63.0, 91.45943792583735)
-[19Apr2025 20:47:19.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 20:47:19.885] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 20:47:52.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 20:47:52.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 20:48:47.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:33975] logged in with entity id 58042 at (1169.2486864920857, 39.0, 156.36413047511394)
-[19Apr2025 20:48:47.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 20:48:47.421] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 20:48:59.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1164, y=36, z=160} BlockPos{x=1163, y=34, z=160}
-[19Apr2025 20:52:26.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was eaten alive by Infected Human
-[19Apr2025 20:52:26.103] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
-[19Apr2025 20:52:26.179] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[19Apr2025 20:52:26.180] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
-[19Apr2025 20:52:26.180] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[19Apr2025 20:52:26.180] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[19Apr2025 20:52:26.181] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
-[19Apr2025 20:52:27.006] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=103, z=-306} BlockPos{x=1731, y=101, z=-307}
-[19Apr2025 20:52:27.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=103, z=-306} BlockPos{x=1731, y=101, z=-307}
-[19Apr2025 20:52:27.109] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1733, y=102, z=-306} BlockPos{x=1731, y=101, z=-307}
-[19Apr2025 20:52:30.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=102, z=-309} BlockPos{x=1731, y=101, z=-309}
-[19Apr2025 20:52:30.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1732, y=102, z=-309} BlockPos{x=1731, y=101, z=-309}
-[19Apr2025 20:52:31.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1731, y=102, z=-311} BlockPos{x=1732, y=101, z=-312}
-[19Apr2025 20:52:31.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1731, y=102, z=-311} BlockPos{x=1732, y=101, z=-312}
-[19Apr2025 20:53:03.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1745, y=102, z=-318} BlockPos{x=1745, y=104, z=-317}
-[19Apr2025 20:57:31.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1102, y=-23, z=146} BlockPos{x=1102, y=-24, z=145}
-[19Apr2025 20:58:28.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 20:58:28.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 20:58:32.545] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:42935] logged in with entity id 64494 at (1094.300000011921, -10.0, 124.10088137113452)
-[19Apr2025 20:58:32.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 20:58:32.640] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 20:59:29.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1676, y=62, z=-395} BlockPos{x=1674, y=60, z=-394}
-[19Apr2025 20:59:47.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla was eaten alive by Infected Human
-[19Apr2025 20:59:47.354] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
-[19Apr2025 20:59:47.377] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[19Apr2025 20:59:47.377] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
-[19Apr2025 20:59:47.377] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[19Apr2025 20:59:47.378] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[19Apr2025 20:59:47.378] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
-[19Apr2025 21:02:16.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> dc oe esteban
-[19Apr2025 21:05:58.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [Penteconter]
-[19Apr2025 21:06:22.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has reached the goal [I see clearly now]
-[19Apr2025 21:08:26.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [We Need to Go Deeper]
-[19Apr2025 21:08:27.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2828ms or 56 ticks behind
-[19Apr2025 21:09:17.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 has made the advancement [We Need to Go Deeper]
-[19Apr2025 21:11:17.504] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RoDJ23 lost connection: Disconnected
-[19Apr2025 21:11:17.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RoDJ23 left the game
-[19Apr2025 21:14:56.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [Neighborhood Brawl]
-[19Apr2025 21:16:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [A Terrible Fortress]
-[19Apr2025 21:18:01.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Into Fire]
-[19Apr2025 21:23:48.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 21:23:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 21:23:52.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:36767] logged in with entity id 76084 at (2015.9135753632534, 74.9375, -234.93515341515408)
-[19Apr2025 21:23:52.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 21:23:52.219] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 21:30:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Barrel Booty]
-[19Apr2025 21:33:49.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has made the advancement [What a Deal!]
-[19Apr2025 21:34:25.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Wither Skeleton
-[19Apr2025 21:34:25.957] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:34:32.841] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 21:34:32.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 21:34:59.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:45119] logged in with entity id 79188 at (2012.2716187696826, 71.0, -269.1842246873037)
-[19Apr2025 21:34:59.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 21:34:59.228] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 21:36:11.390] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/79190, l='ServerLevel[world]', x=2015.36, y=73.17, z=-223.71] died, message: 'Librarian was shot by Luticlla'
-[19Apr2025 21:37:31.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 0.623967424084106
-[19Apr2025 21:37:31.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 1.108864809302929
-[19Apr2025 21:37:31.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 1.4750922062622098
-[19Apr2025 21:37:31.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Luticlla) moved wrongly! 1.8748009333337983
-[19Apr2025 21:37:58.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Piglin
-[19Apr2025 21:37:58.759] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:38:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Piglin
-[19Apr2025 21:38:10.144] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:41:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was slain by Piglin
-[19Apr2025 21:41:37.706] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:41:52.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 was doomed to fall by Piglin
-[19Apr2025 21:41:52.514] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:43:46.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZZZ
-[19Apr2025 21:44:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 discovered the floor was lava
-[19Apr2025 21:44:30.445] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:45:15.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 discovered the floor was lava
-[19Apr2025 21:45:15.052] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:45:17.710] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1643, y=77, z=1693} BlockPos{x=1643, y=79, z=1693}
-[19Apr2025 21:46:55.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla fell from a high place
-[19Apr2025 21:46:55.303] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
-[19Apr2025 21:47:16.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 withered away whilst fighting Wither Skeleton
-[19Apr2025 21:47:16.202] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:48:03.547] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
-[19Apr2025 21:48:07.347] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
-[19Apr2025 21:48:39.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has completed the challenge [Centennial]
-[19Apr2025 21:49:18.901] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
-[19Apr2025 21:49:18.901] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
-[19Apr2025 21:50:21.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla has succumbed to the infection
-[19Apr2025 21:50:21.006] [Server thread/INFO] [tombstone/]: The player Luticlla has successfully been saved
-[19Apr2025 21:50:29.532] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Luticlla'/91934, l='ServerLevel[world]', x=1607.19, y=69.00, z=1694.38] died: Luticlla fell from a high place
-[19Apr2025 21:50:51.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1647, y=111, z=1687} BlockPos{x=1648, y=109, z=1687}
-[19Apr2025 21:54:15.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 fell from a high place
-[19Apr2025 21:54:15.394] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
-[19Apr2025 21:59:39.031] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1727, y=7, z=2608}
-[19Apr2025 21:59:42.912] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=1727, y=7, z=2608}
-[19Apr2025 22:09:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZzzZzZzZzZzZz
-[19Apr2025 22:21:12.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
-[19Apr2025 22:21:12.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
-[19Apr2025 22:25:18.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 22:25:18.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 22:26:19.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:36703] logged in with entity id 112491 at (2224.0756324273407, 92.0, 3043.4128934556775)
-[19Apr2025 22:26:19.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 22:26:19.759] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
-[19Apr2025 22:32:25.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
-[19Apr2025 22:32:25.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
-[19Apr2025 22:32:38.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:59653] logged in with entity id 114313 at (2222.7458927007647, 92.0, 3057.1469437186342)
-[19Apr2025 22:32:38.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
-[19Apr2025 22:32:38.555] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[20Apr2025 01:13:03.032] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[20Apr2025 01:13:03.060] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[20Apr2025 01:13:03.092] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[20Apr2025 01:13:03.170] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[20Apr2025 01:13:03.227] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2995 advancements
+[20Apr2025 01:13:03.231] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[20Apr2025 01:13:03.253] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 12 curio slots
+[20Apr2025 01:13:03.259] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 24 curio entities
+[20Apr2025 01:13:03.273] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[20Apr2025 01:13:04.776] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[20Apr2025 01:13:04.810] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[20Apr2025 01:13:04.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[20Apr2025 01:13:04.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20Apr2025 01:13:04.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20Apr2025 01:13:04.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20Apr2025 01:13:05.036] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20Apr2025 01:13:05.063] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20Apr2025 01:13:05.137] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20Apr2025 01:13:05.137] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20Apr2025 01:13:05.139] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20Apr2025 01:13:05.140] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20Apr2025 01:13:05.234] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[20Apr2025 01:13:05.234] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[20Apr2025 01:13:05.234] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[20Apr2025 01:13:05.234] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[20Apr2025 01:13:05.235] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[20Apr2025 01:13:05.236] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[20Apr2025 01:13:05.238] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[20Apr2025 01:13:05.238] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[20Apr2025 01:13:05.238] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[20Apr2025 01:13:05.240] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[20Apr2025 01:13:05.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20Apr2025 01:13:06.487] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
+[20Apr2025 01:13:06.490] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.projectile.ThrownTrident from class com.Harbinger.Spore.Sentities.Projectile.ThrownSpear
+[20Apr2025 01:13:06.492] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
+[20Apr2025 01:13:06.492] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
+[20Apr2025 01:13:06.495] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.Calamities.Hinderburg from class com.Harbinger.Spore.Sentities.Utility.TumoroidNuke
+[20Apr2025 01:13:08.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20Apr2025 01:13:14.050] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.052] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.053] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.054] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.055] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.061] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.065] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.066] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.069] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.070] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.070] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.071] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[20Apr2025 01:13:14.557] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[20Apr2025 01:13:15.057] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[20Apr2025 01:13:15.557] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[20Apr2025 01:13:15.645] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7089 ms
+[20Apr2025 01:13:15.646] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.489s)! For help, type "help"
+[20Apr2025 01:13:15.725] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20Apr2025 01:13:15.925] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 118650 bytes (in 12 string chunks with the size of 10000)
+[20Apr2025 01:13:20.754] [Server thread/INFO] [dev.corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_blue_moon, enhancedcelestials:super_moon, enhancedcelestials:blood_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:blue_moon, enhancedcelestials:harvest_moon, enhancedcelestials:super_harvest_moon].
+[20Apr2025 01:13:21.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4951ms or 99 ticks behind
+[20Apr2025 01:13:48.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.172.107.61:36467] logged in with entity id 6972 at (1667.894096064495, 69.0, -1152.6967948253105)
+[20Apr2025 01:13:48.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[20Apr2025 01:13:48.375] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[20Apr2025 01:13:53.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5879ms or 117 ticks behind
+[20Apr2025 01:14:13.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2296ms or 45 ticks behind
+[20Apr2025 01:15:41.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Seta33 a server operator
+[20Apr2025 01:16:31.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Set own game mode to Creative Mode]
+[20Apr2025 01:17:20.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Local ice age]
+[20Apr2025 01:18:30.645] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:ice_spikes took 3132 ms
+[20Apr2025 01:18:30.646] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3116ms or 62 ticks behind
+[20Apr2025 01:18:37.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 4933.500000, 69.000000, 2465.500000]
+[20Apr2025 01:19:07.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Seta33: Teleported Seta33 to 4837.500000, 66.000000, 2250.500000]
+[20Apr2025 01:19:09.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2651ms or 53 ticks behind
