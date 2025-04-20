@@ -9025,3 +9025,36 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [20Apr2025 04:16:50.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/30094, l='ServerLevel[world]', x=982.31, y=201.00, z=3057.86], dimensionLocationPath overworld
 [20Apr2025 04:16:50.264] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/30094, l='ServerLevel[world]', x=982.31, y=201.00, z=3057.86] in list []
 [20Apr2025 04:16:57.856] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/30094, l='ServerLevel[world]', x=979.05, y=201.00, z=3062.96]
+[20Apr2025 04:17:37.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[20Apr2025 04:18:14.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 04:18:14.573] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 04:19:58.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> richard de quien consigo spine segment?
+[20Apr2025 04:20:10.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> falla
+[20Apr2025 04:20:17.058] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['GreyRP87'/30094, l='ServerLevel[world]', x=1268.27, y=71.50, z=1291.05], dimensionLocationPath overworld
+[20Apr2025 04:20:17.058] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['GreyRP87'/30094, l='ServerLevel[world]', x=1268.27, y=71.50, z=1291.05] in list []
+[20Apr2025 04:20:17.162] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['GreyRP87'/30094, l='ServerLevel[world]', x=1268.27, y=71.50, z=1291.05]
+[20Apr2025 04:20:52.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> ontan?
+[20Apr2025 04:21:20.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> zzzzzzzzzzz
+[20Apr2025 04:21:21.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> crj
+[20Apr2025 04:22:14.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 04:23:18.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 04:23:18.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 04:23:18.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2255ms or 45 ticks behind
+[20Apr2025 04:23:38.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> q mrd escucho
+[20Apr2025 04:23:48.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Apr2025 04:24:11.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
+[20Apr2025 04:24:20.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> lo peor esq de vrd me lo estoy planteando hacer
+[20Apr2025 04:24:30.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3628ms or 72 ticks behind
+[20Apr2025 04:24:48.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[20Apr2025 04:25:05.486] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[20Apr2025 04:25:19.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 fell from a high place
+[20Apr2025 04:25:19.840] [Server thread/DEBUG] [tombstone/]: A new grave of the player Seta33 was created at position [x:4846, y:63, z:2232, dim:minecraft:overworld]
+[20Apr2025 04:25:19.849] [Server thread/INFO] [tombstone/]: The player Seta33 has successfully been saved
+[20Apr2025 04:25:25.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[20Apr2025 04:25:43.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[20Apr2025 04:26:41.147] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[20Apr2025 04:26:59.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 fell from a high place
+[20Apr2025 04:26:59.333] [Server thread/DEBUG] [tombstone/]: A new grave of the player GreyRP87 was created at position [x:983, y:112, z:3068, dim:minecraft:overworld]
+[20Apr2025 04:26:59.406] [Server thread/INFO] [tombstone/]: The player GreyRP87 has successfully been saved
+[20Apr2025 04:27:03.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> bajesa
+[20Apr2025 04:27:20.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37665, l='ServerLevel[world]', x=1833.09, y=65.00, z=1913.29] died, message: 'Unemployed hit the ground too hard'
