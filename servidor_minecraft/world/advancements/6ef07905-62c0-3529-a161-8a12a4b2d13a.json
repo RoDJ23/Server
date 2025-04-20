@@ -44,6 +44,7 @@
       "minecraft:stony_shore": "2025-04-19 22:10:50 +0000",
       "minecraft:snowy_taiga": "2025-04-19 22:00:06 +0000",
       "minecraft:swamp": "2025-04-20 17:36:38 +0000",
+      "minecraft:grove": "2025-04-20 18:06:26 +0000",
       "minecraft:forest": "2025-04-16 16:35:03 +0000",
       "minecraft:lush_caves": "2025-04-16 17:19:24 +0000",
       "minecraft:ice_spikes": "2025-04-20 04:06:08 +0000",
@@ -166,6 +167,7 @@
       "cooked_porkchop": "2025-04-17 05:53:16 +0000",
       "cooked_mutton": "2025-04-17 06:21:59 +0000",
       "cooked_beef": "2025-04-17 06:04:03 +0000",
+      "apple": "2025-04-20 18:14:06 +0000",
       "bread": "2025-04-16 17:27:13 +0000",
       "golden_apple": "2025-04-17 16:32:20 +0000",
       "rotten_flesh": "2025-04-16 16:38:57 +0000",
@@ -3756,6 +3758,36 @@
   "supplementaries:recipes/flint_block": {
     "criteria": {
       "has_flint": "2025-04-20 17:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-20 18:03:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-20 18:03:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/discreet_search": {
+    "criteria": {
+      "coded_trigger": "2025-04-20 18:11:05 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/apple_juice": {
+    "criteria": {
+      "has_apple": "2025-04-20 18:11:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2025-04-20 18:15:58 +0000"
     },
     "done": true
   },
