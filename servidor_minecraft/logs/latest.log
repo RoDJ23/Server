@@ -284,3 +284,44 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [22Apr2025 21:28:49.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> confirmo
 [22Apr2025 21:30:47.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GreyRP87> no tenia cosas importantes .-.
 [22Apr2025 21:34:53.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Enchanter]
+[22Apr2025 21:39:56.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2157ms or 43 ticks behind
+[22Apr2025 21:41:26.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[22Apr2025 21:41:53.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZZZZZZZZZZZZZZZZZZ
+[22Apr2025 21:41:53.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[22Apr2025 21:41:54.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[22Apr2025 21:41:54.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
+[22Apr2025 21:42:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> zzzzzzzzzzzzzzzzzzz
+[22Apr2025 21:42:43.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+[22Apr2025 21:43:04.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzz
+[22Apr2025 21:43:05.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzzz
+[22Apr2025 21:43:06.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzzzzz
+[22Apr2025 21:43:08.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzz
+[22Apr2025 21:43:09.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzzzzzzzzzz
+[22Apr2025 21:43:45.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[22Apr2025 21:45:55.044] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dinnerbone'/18377, l='ServerLevel[world]', x=4848.91, y=63.00, z=2254.01] died, message: 'Dinnerbone hit the ground too hard whilst trying to escape Seta33'
+[22Apr2025 21:45:55.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dinnerbone'/18377, l='ServerLevel[world]', x=4848.91, y=63.00, z=2254.01] died: Dinnerbone was doomed to fall by Seta33
+[22Apr2025 21:48:00.731] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[22Apr2025 21:48:00.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[22Apr2025 21:48:48.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:39465] logged in with entity id 49589 at (4487.270819300099, 69.0, 2376.2960884852055)
+[22Apr2025 21:48:48.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[22Apr2025 21:48:48.149] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[22Apr2025 21:49:52.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=64, z=3118} BlockPos{x=860, y=62, z=3119}
+[22Apr2025 21:49:52.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=64, z=3118} BlockPos{x=860, y=62, z=3119}
+[22Apr2025 21:49:52.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=860, y=64, z=3120} BlockPos{x=861, y=63, z=3120}
+[22Apr2025 21:52:50.678] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[22Apr2025 21:52:50.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[22Apr2025 21:53:00.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:52523] logged in with entity id 53245 at (976.4636073246154, 201.0, 3060.8699055464945)
+[22Apr2025 21:53:00.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
+[22Apr2025 21:53:00.396] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
+[22Apr2025 21:53:02.680] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[22Apr2025 21:53:02.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[22Apr2025 21:53:32.283] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:33037] logged in with entity id 53784 at (976.4636073246154, 201.0, 3060.8699055464945)
+[22Apr2025 21:53:32.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
+[22Apr2025 21:53:32.296] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
+[22Apr2025 21:53:34.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[22Apr2025 21:53:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game
+[22Apr2025 21:56:58.879] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GreyRP87[/127.144.176.107:46561] logged in with entity id 56093 at (976.4636073246154, 201.0, 3060.8699055464945)
+[22Apr2025 21:56:58.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 joined the game
+[22Apr2025 21:56:58.892] [Server thread/INFO] [Jade/]: Syncing config to GreyRP87 (f1bfce37-1b36-3ce5-a3ad-c194ea40cf21)
+[22Apr2025 21:57:03.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GreyRP87 lost connection: Disconnected
+[22Apr2025 21:57:03.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GreyRP87 left the game

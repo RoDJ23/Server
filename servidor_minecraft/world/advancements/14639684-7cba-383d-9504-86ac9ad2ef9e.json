@@ -2009,7 +2009,8 @@
       "minecraft:enderman": "2025-04-19 20:07:31 +0000",
       "minecraft:vex": "2025-04-22 20:52:37 +0000",
       "minecraft:zombie": "2025-04-15 22:48:08 +0000",
-      "minecraft:drowned": "2025-04-17 15:49:39 +0000"
+      "minecraft:drowned": "2025-04-17 15:49:39 +0000",
+      "minecraft:zombie_villager": "2025-04-22 21:56:25 +0000"
     },
     "done": false
   },
@@ -5847,6 +5848,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-22 20:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-22 21:51:48 +0000"
     },
     "done": true
   },
