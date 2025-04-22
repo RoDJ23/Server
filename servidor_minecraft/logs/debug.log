@@ -7492,3 +7492,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [22Apr2025 21:08:00.877] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1ae88b83 into net.minecraft.network.Connection@7f916a0b
 [22Apr2025 21:08:00.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
 [22Apr2025 21:08:00.895] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)
+[22Apr2025 21:09:19.917] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 21:09:19.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 21:14:19.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 21:14:19.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Apr2025 21:18:23.195] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/21999, l='ServerLevel[world]', x=2233.62, y=92.19, z=3045.62], dimensionLocationPath overworld
+[22Apr2025 21:18:23.195] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/21999, l='ServerLevel[world]', x=2233.62, y=92.19, z=3045.62] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3e44]
+[22Apr2025 21:18:23.695] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/21999, l='ServerLevel[world]', x=2233.75, y=92.98, z=3045.58, removed=DISCARDED]
+[22Apr2025 21:19:19.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Apr2025 21:19:19.914] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
