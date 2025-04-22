@@ -257,3 +257,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [22Apr2025 20:45:20.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
 [22Apr2025 20:45:20.258] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
 [22Apr2025 20:45:48.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 has made the advancement [Local Brewery]
+[22Apr2025 20:52:42.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[22Apr2025 20:52:42.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[22Apr2025 20:53:01.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:54199] logged in with entity id 12146 at (4592.839367313998, 65.0, 2395.699999988079)
+[22Apr2025 20:53:01.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[22Apr2025 20:53:01.207] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[22Apr2025 21:02:14.069] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[22Apr2025 21:02:14.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[22Apr2025 21:02:18.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Luticlla[/127.104.199.195:38093] logged in with entity id 15940 at (2228.952215479973, 92.0, 3048.6059866339447)
+[22Apr2025 21:02:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla joined the game
+[22Apr2025 21:02:18.074] [Server thread/INFO] [Jade/]: Syncing config to Luticlla (6ef07905-62c0-3529-a161-8a12a4b2d13a)
+[22Apr2025 21:07:54.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[22Apr2025 21:07:54.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[22Apr2025 21:08:00.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Seta33[/127.90.181.22:44503] logged in with entity id 18331 at (4818.559125235164, 83.0, 2216.300000011921)
+[22Apr2025 21:08:00.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 joined the game
+[22Apr2025 21:08:00.895] [Server thread/INFO] [Jade/]: Syncing config to Seta33 (14639684-7cba-383d-9504-86ac9ad2ef9e)

@@ -2007,6 +2007,7 @@
       "minecraft:cave_spider": "2025-04-15 23:34:51 +0000",
       "minecraft:piglin": "2025-04-19 21:09:28 +0000",
       "minecraft:enderman": "2025-04-19 20:07:31 +0000",
+      "minecraft:vex": "2025-04-22 20:52:37 +0000",
       "minecraft:zombie": "2025-04-15 22:48:08 +0000",
       "minecraft:drowned": "2025-04-17 15:49:39 +0000"
     },
@@ -5822,6 +5823,30 @@
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_sugar": "2025-04-20 18:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-22 20:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 20:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-22 20:51:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-22 20:51:14 +0000"
     },
     "done": true
   },
