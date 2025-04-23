@@ -5863,5 +5863,11 @@
     },
     "done": true
   },
+  "spore:verva": {
+    "criteria": {
+      "hurt_infected": "2025-04-23 17:16:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
