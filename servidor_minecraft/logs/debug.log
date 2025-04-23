@@ -6941,3 +6941,47 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [23Apr2025 17:53:41.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Glowstone Dust'/44158, l='ServerLevel[world]', x=4592.11, y=63.00, z=2409.22], dimensionLocationPath overworld
 [23Apr2025 17:53:41.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Glowstone Dust'/44158, l='ServerLevel[world]', x=4592.11, y=63.00, z=2409.22] in list []
 [23Apr2025 17:53:41.198] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Glowstone Dust'/44158, l='ServerLevel[world]', x=4592.11, y=63.00, z=2409.22, removed=UNLOADED_TO_CHUNK]
+[23Apr2025 17:55:01.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 17:55:01.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 17:57:48.994] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/48261, l='ServerLevel[world]', x=4821.74, y=77.59, z=2217.42], dimensionLocationPath overworld
+[23Apr2025 17:57:48.995] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/48261, l='ServerLevel[world]', x=4821.74, y=77.59, z=2217.42] in list []
+[23Apr2025 17:58:08.545] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/48261, l='ServerLevel[world]', x=4822.55, y=77.36, z=2218.53, removed=DISCARDED]
+[23Apr2025 17:59:17.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> pasa ubi del spawn
+[23Apr2025 17:59:27.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/49760, l='ServerLevel[world]', x=4828.30, y=81.41, z=2201.62], dimensionLocationPath overworld
+[23Apr2025 17:59:27.245] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/49760, l='ServerLevel[world]', x=4828.30, y=81.41, z=2201.62] in list []
+[23Apr2025 17:59:32.945] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/49760, l='ServerLevel[world]', x=4828.56, y=79.00, z=2202.88, removed=DISCARDED]
+[23Apr2025 17:59:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> jue
+[23Apr2025 17:59:58.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[23Apr2025 17:59:58.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[23Apr2025 18:00:01.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 18:00:01.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 18:01:18.897] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/51167, l='ServerLevel[world]', x=4852.37, y=85.22, z=2196.74], dimensionLocationPath overworld
+[23Apr2025 18:01:18.897] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/51167, l='ServerLevel[world]', x=4852.37, y=85.22, z=2196.74] in list []
+[23Apr2025 18:01:30.094] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/51167, l='ServerLevel[world]', x=4851.78, y=82.00, z=2197.59, removed=DISCARDED]
+[23Apr2025 18:01:36.244] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/51326, l='ServerLevel[world]', x=4842.27, y=84.58, z=2195.52], dimensionLocationPath overworld
+[23Apr2025 18:01:36.244] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/51326, l='ServerLevel[world]', x=4842.27, y=84.58, z=2195.52] in list []
+[23Apr2025 18:01:37.794] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/51326, l='ServerLevel[world]', x=4842.88, y=81.00, z=2194.13, removed=DISCARDED]
+[23Apr2025 18:02:53.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[23Apr2025 18:02:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[23Apr2025 18:02:59.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Apr2025 18:02:59.348] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[23Apr2025 18:02:59.348] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[23Apr2025 18:02:59.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Apr2025 18:02:59.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Apr2025 18:02:59.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Apr2025 18:02:59.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Apr2025 18:03:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Apr2025 18:03:00.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Apr2025 18:03:00.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 18:03:00.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 18:03:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 18:03:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 18:03:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 18:03:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23Apr2025 18:03:00.625] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[23Apr2025 18:03:00.625] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[23Apr2025 18:03:00.649] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[23Apr2025 18:03:00.649] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[23Apr2025 18:03:00.649] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[23Apr2025 18:03:00.649] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[23Apr2025 18:03:00.651] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER

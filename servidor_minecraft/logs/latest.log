@@ -244,3 +244,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 [23Apr2025 17:50:41.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> zzzzzzzzzzz
 [23Apr2025 17:50:42.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> Z
 [23Apr2025 17:51:13.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Seta33> zzzzzzzzzzzzz
+[23Apr2025 17:59:17.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> pasa ubi del spawn
+[23Apr2025 17:59:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luticlla> jue
+[23Apr2025 17:59:58.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luticlla lost connection: Disconnected
+[23Apr2025 17:59:58.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luticlla left the game
+[23Apr2025 18:02:53.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Seta33 lost connection: Disconnected
+[23Apr2025 18:02:53.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seta33 left the game
+[23Apr2025 18:02:59.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23Apr2025 18:02:59.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Apr2025 18:02:59.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Apr2025 18:02:59.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Apr2025 18:02:59.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Apr2025 18:03:00.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Apr2025 18:03:00.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Apr2025 18:03:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Apr2025 18:03:00.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Apr2025 18:03:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Apr2025 18:03:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
